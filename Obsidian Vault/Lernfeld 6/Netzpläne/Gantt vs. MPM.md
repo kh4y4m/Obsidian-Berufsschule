@@ -5,3 +5,4 @@
 - Netzplan ist Zeitunabhängig
 - Gantt kann schnell unübersichtlich werden
 - Netzplan hat einen kritischen Pfad
+- Gantt Balkendiagramm in Kooardinatensystem

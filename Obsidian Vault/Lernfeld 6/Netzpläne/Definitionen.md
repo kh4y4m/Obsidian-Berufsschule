@@ -1,3 +1,10 @@
+**Legende**
+
+| BEZ | FAZ | FEZ |
+|-----|-----|-----|
+| **D**   | **SAZ** | **SEZ** |
+| **GP**  | **FP**  | **UP**  |
+
 **BEZ**
 	BEZ ist die Bezeichnung des Vorgangs (z. Bsp. A)
 
@@ -30,5 +37,5 @@
 	*FP<sub>(j)</sub> = min(FAZ<sub>(k)</sub> - FEZ<sub>(j)</sub>)*
 
 **UP**
-	der unabhängige Puffer, beschreibt die Pufferzeit, die dem Vorgang zur Verfügung steht, wenn die Vorgänger zum spätesten Endzeitpunkt (SEZ) enden
+	der unabhängige Puffer, beschreibt die Pufferzeit, die dem Vorgang zur Verfügung steht, wenn die Vorgänger zum spätesten Endzeitpunkt (SEZ) enden und der Nachfolger zu frühsten Startzeitpunkt anfängt
 	*UP<sub>(j)</sub> = min(FAZ)<sub>(k)</sub> - max(SEZ)<sub>(i)</sub> - D<sub>(j)</sub> ≥ 0 = 0*
