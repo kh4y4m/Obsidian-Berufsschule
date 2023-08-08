@@ -1,4 +1,4 @@
-1. Obsidian[https://obsidian.md/] runterladen und installieren
+1. [Obsidian](https://obsidian.md/) runterladen und installieren
 2. Ordner von der Repository runterladen
    ![image](https://github.com/kh4y4m/Obsidian-Berufsschule/assets/77501688/37af2c70-950c-4101-afb5-0d0d376f9ce4)
 3. Zip irgendwo entpacken
