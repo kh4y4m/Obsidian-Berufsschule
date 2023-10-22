@@ -23,11 +23,14 @@
             "id": "f8ab5534024e64e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -82,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -168,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "462f53cb6236df75",
+  "active": "f8ab5534024e64e5",
   "lastOpenFiles": [
-    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
     "Test.md",
+    "Untitled.canvas",
+    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM Musterlösung.md",
     "Berufsschule Vault/Attachments/Backupmedium.svg.md",
     "Berufsschule Vault/Attachments/differentielles Backup vs. inkrementales Backup.svg.md",
