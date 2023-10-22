@@ -36,7 +36,9 @@ Firewall-Arten
 **4) Application Layer/Gateway Level**
 - Filterkriterium: IP-Adressen, Port, L7-Protokolle (Content)
 
-![[IP-Frame_App.drawio.svg|350]]
+
+![](/Berufsschule%20Vault/Attachments/IP-Frame_App.drawio.svg)
+<img src="/Berufsschule Vault/Attachments/IP-Frame_App.drawio.svg"/>
 
 Der Aufbau und der Nachrichtenverlauf der zu filternden Protokolle muss klar sein
 </br>
@@ -49,8 +51,9 @@ Der Aufbau und der Nachrichtenverlauf der zu filternden Protokolle muss klar sei
   + ....
 
 #### DMZ
-![[DMZ.drawio.svg]]
+![](/Berufsschule%20Vault/Attachments/DMZ.drawio.svg)
 - Alle Dienste, die aus dem öffentlichem Bereich erreichbar sein müssen, werden in die DMZ platziert
 - die direkte Kommunikation zwischen öffentlichen Netzwerk und privaten Netzwerk ist verboten.
 - die Firewalls sind idealerwiese von unterschiedlichen Herstellern
 - das BSI empfiehlt den Einsatz unterschiedlicher FW-Arten
+
