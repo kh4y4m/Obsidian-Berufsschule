@@ -13,29 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF11b/Backup.md",
+                "file": "LF11b/Firewall.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "deafde222e46c93a"
           }
         ]
       },
       {
-        "id": "538c228695780b01",
+        "id": "d6fadbe7dfd22e18",
         "type": "tabs",
         "children": [
           {
-            "id": "6548d519871de731",
+            "id": "53d4ca40717d61d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF11b/Backup.md",
+                "file": "LF11b/Firewall.md",
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "deafde222e46c93a"
           }
         ]
       }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LF11b/Backup.md",
+                "file": "LF11b/Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LF11b/Backup.md",
+                "file": "LF11b/Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LF11b/Backup.md"
+                "file": "LF11b/Firewall.md"
               }
             }
           },
@@ -174,8 +176,10 @@
   },
   "active": "41f19609332465f9",
   "lastOpenFiles": [
-    "Berufsschule Vault/Attachments/Backupmedium.svg.md",
+    "Berufsschule Vault/Attachments/DMZ.drawio.svg.md",
+    "LF11b/Firewall.md",
     "LF11b/Backup.md",
+    "Berufsschule Vault/Attachments/Backupmedium.svg.md",
     "Berufsschule Vault/Attachments/differentielles Backup vs. inkrementales Backup.svg.md",
     "Berufsschule%20Vault/Attachments/LF11b_DiffBackup_19-10-23.svg.md",
     "Berufsschule%20Vault/Attachments",
