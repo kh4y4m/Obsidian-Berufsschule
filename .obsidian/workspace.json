@@ -23,14 +23,11 @@
             "id": "f8ab5534024e64e5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Test.md"
               }
             }
           },
@@ -172,8 +169,8 @@
   },
   "active": "f8ab5534024e64e5",
   "lastOpenFiles": [
-    "Test.md",
     "Untitled.canvas",
+    "Test.md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM Musterlösung.md",
     "Berufsschule Vault/Attachments/Backupmedium.svg.md",
