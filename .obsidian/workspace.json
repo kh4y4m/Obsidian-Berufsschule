@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
+                "file": "Englisch/Teichis Notizen/Vokabeln.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "deafde222e46c93a"
+          }
+        ]
+      },
+      {
+        "id": "d6fadbe7dfd22e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53d4ca40717d61d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/Teichis Notizen/Vokabeln.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "deafde222e46c93a"
           }
         ]
       }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
+                "file": "Englisch/Teichis Notizen/Vokabeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
+                "file": "Englisch/Teichis Notizen/Vokabeln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md"
+                "file": "Englisch/Teichis Notizen/Vokabeln.md"
               }
             }
           },
@@ -154,10 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41f19609332465f9",
+  "active": "18e1242cc8b1290a",
   "lastOpenFiles": [
-    "Test.md",
-    "Untitled.canvas",
+    "Englisch/Teichis Notizen/types of malware.md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM Musterlösung.md",
     "Berufsschule Vault/Attachments/Backupmedium.svg.md",
