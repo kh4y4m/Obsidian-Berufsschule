@@ -17,29 +17,46 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "deafde222e46c93a"
-          }
-        ]
-      },
-      {
-        "id": "d6fadbe7dfd22e18",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "53d4ca40717d61d7",
+            "id": "0625095122a077d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Teichis Notizen/Vokabeln.md",
+                "file": "2023-10-28.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "deafde222e46c93a"
+            }
+          },
+          {
+            "id": "aa509897d2e52526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "194d5739b4f9ec78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 11b/Firewall.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Teichis Notizen/Vokabeln.md",
+                "file": "Lernfeld 11b/Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Teichis Notizen/Vokabeln.md",
+                "file": "Lernfeld 11b/Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Teichis Notizen/Vokabeln.md"
+                "file": "Lernfeld 11b/Firewall.md"
               }
             }
           },
@@ -174,15 +191,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18e1242cc8b1290a",
+  "active": "194d5739b4f9ec78",
   "lastOpenFiles": [
+    "Lernfeld 11b/Routing.md",
+    "Lernfeld 11b/Virtual Private Network (VPN).md",
+    "Lernfeld 11b/Firewall.md",
+    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
+    "Lernfeld 9/Virtual Private Network.md",
+    "Lernfeld 9/Virtual Private Network 1.md",
+    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
+    "Themen.md",
+    "2023-10-28.md",
+    "Virt.md",
+    "Lernfeld 6/Klausurvorbereitung/MPM Netzpläne.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Lernfeld 6/Netzpläne/Kriterien eines Projektes.md",
+    "Englisch/Teichis Notizen/Vokabeln.md",
     "PoWi",
     "Englisch/Teichis Notizen/types of malware.md",
-    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM Musterlösung.md",
     "Berufsschule Vault/Attachments/Backupmedium.svg.md",
     "Berufsschule Vault/Attachments/differentielles Backup vs. inkrementales Backup.svg.md",
-    "Lernfeld 11b/Firewall.md",
     "Berufsschule Vault/Attachments/DMZ.drawio.svg.md",
     "Lernfeld 11b/Backup.md",
     "Berufsschule%20Vault/Attachments/LF11b_DiffBackup_19-10-23.svg.md",
