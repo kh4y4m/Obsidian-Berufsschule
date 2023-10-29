@@ -1,4 +1,5 @@
 [USV](USV)
+
 [Verschlüsselung](obsidian://open?vault=Berufsschule%20Vault&file=Verschl%C3%BCsselung)
 > [[Verschlüsselung#^faa9ae|Asymmetrisch]]
 > [[Verschlüsselung#^f55261|Symmetrisch]]
@@ -15,7 +16,7 @@ Blue Green Deployment
 Zertifikate
 
 [Klassendiagramme](Klassendiagramme.md)
->Assoziation
->Aggregation
->Komposition
- 
+>[[Klassendiagramme#^060452|Assoziation]]
+>[[Klassendiagramme#^6d2107|Aggregation]]
+>[[Klassendiagramme#^1f5133|Komposition]]
+
