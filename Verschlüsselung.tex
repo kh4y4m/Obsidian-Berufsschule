@@ -1,0 +1,144 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Verschlüsselung},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Verschlüsselung}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\paragraph{Symmetrische
+Verschlüsselung}\label{symmetrische-verschluxfcsselung}
+
+\emph{Die symmetrische Verschlüsselung ist ein Begriff der Kryptografie.
+Damit ist ein Verschlüsselungsverfahren~ gemeint, bei dem für die Ver-
+und Entschlüsselung einer Nachricht \textbf{derselbe Schlüssel} benötigt
+wird. Dazu muss vorher der gemeinsame Austausch des Schlüssels
+vorgenommen werden}
+
+{Encryption\_Symetrical.drawio.svg}\\
+Bob hat eine wichtige Information die er Alice, über einen unsicheren
+Kanal (zum Beispiel das Web), zusenden möchte. Um sicher zu gehen, dass
+die Information nicht von einem dritten gelesen wird (Eve), muss er die
+Nachricht zuerst verschlüsseln. Dazu müssen Bob und Alice sich zuerst
+auf einen gemeinsamen Schlüssel K1 geeinigt haben. Mit dem Schlüssel K1
+verschlüsselt Bob nun die Information und sendet diese über den
+unsicheren Kanal an Alice. Auch wenn ein Eve die verschlüsselte
+Information mit lauscht, kann er mit der Information nichts mehr
+anfangen, da diese durch die Verschlüsselung keinen Sin mehr ergibt. Um
+die Information wieder zu entschlüsseln, wird wieder derselbe Schlüssel
+K1 benötigt der auch für die für die Verschlüsslung benutzt wurde. Da
+nur Alice und Bob zuvor den Schlüssel ausgetauscht haben, können nur sie
+den Originaltext lesen.
+
+\hfill\break
+
+\textbf{Vor- und Nachteile}
+
+\strut \\
+\textless sodipodi:namedview\\
+id="namedview1"\\
+pagecolor="\#ffffff"\\
+bordercolor="\#000000"\\
+borderopacity="0.25"\\
+inkscape:showpageshadow="2"\\
+inkscape:pageopacity="0.0"\\
+inkscape:pagecheckerboard="0"\\
+inkscape:deskcolor="\#d1d1d1"\\
+inkscape:document-units="mm" /\textgreater{}\\
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{Asymmetrische
+Verschlüsselung}\label{asymmetrische-verschluxfcsselung}
+
+\emph{Die asymmetrische Verschlüsselung ist ein Begriff der
+Kryptografie. Dieses Verschlüsselungsverfahren arbeitet mit
+Schlüsselpaaren. Ein Schlüssel ist der öffentliche (Public Key) und der
+andere der private Schlüssel (Private Key). Daten, die mit dem
+öffentlichen Schlüssel verschlüsselt wurden, können nur noch mit dem
+privaten Schlüssel entschlüsselt werden. Will der Sender eine
+Information verschlüsselt an den Empfänger senden, benötigt er den
+öffentlichen Schlüssel des Empfängers}
+
+{Encryption\_asymetrical.drawio.svg}
+
+Bob und Alice möchten über einen unsicheren Kanal (zum Beispiel das Web)
+Nachrichten austauschen. Um sicher zu stellen, dass kein dritter (Eve)
+die Nachrichten mit horcht, entscheiden sich Bob und Alice die
+Nachrichten mit der asymmetrischen Verschlüsslung zu Chiffrieren. Dazu
+benötigt Bob den öffentlichen Schlüssel von Alice. Der öffentliche
+Schlüssel ist für alle sichtbar (auch für Eve). Die Veröffentlichung
+kann zum Beispiel über E-Mail oder einen öffentlichen Server passieren.
+Mit dem öffentlichen Schlüssel von Alice kann jeder seine Nachricht
+verschlüsseln und das Ergebnis an Alice senden. Jedoch kann nur Alice
+die Nachricht, mit dem privaten Schlüssel, wieder entschlüsseln.
+
+\hfill\break
+
+\textbf{Vor- und Nachteile}
+
+\strut \\
+\textless sodipodi:namedview\\
+id="namedview1"\\
+pagecolor="\#ffffff"\\
+bordercolor="\#000000"\\
+borderopacity="0.25"\\
+inkscape:showpageshadow="2"\\
+inkscape:pageopacity="0.0"\\
+inkscape:pagecheckerboard="0"\\
+inkscape:deskcolor="\#d1d1d1"\\
+inkscape:document-units="mm" /\textgreater{}\\
+
+\end{document}

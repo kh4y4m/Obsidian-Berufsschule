@@ -8,55 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41f19609332465f9",
+            "id": "39fb6c456cfa9153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Teichis Notizen/Vokabeln.md",
+                "file": "Themen/Klassendiagramme.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
+            },
+            "group": "d8d9f1f008a48ccd"
+          }
+        ]
+      },
+      {
+        "id": "601ae92cb98a3778",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0625095122a077d2",
+            "id": "b76222e86777d3fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa509897d2e52526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "194d5739b4f9ec78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld 11b/Backup.md",
+                "file": "Themen/Übersicht.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3c78700b8eaf3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Klassendiagramme.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "d8d9f1f008a48ccd"
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 11b/Backup.md",
+                "file": "Themen/Klassendiagramme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 11b/Backup.md",
+                "file": "Themen/Klassendiagramme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 11b/Backup.md"
+                "file": "Themen/Klassendiagramme.md"
               }
             }
           },
@@ -191,37 +188,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "194d5739b4f9ec78",
+  "active": "b3c78700b8eaf3d9",
   "lastOpenFiles": [
+    "Anhang/SVG/Klassendiagramme.drawio",
+    "Anhang/SVG/Klassendiagramme_Komposition.svg",
+    "Anhang/SVG/Klassendiagramme_Aggregation.svg",
+    "Anhang/SVG/Klassendiagramme_Assoziation.svg",
+    "Themen/Übersicht.md",
+    "Themen/Klassendiagramme.md",
+    "Englisch/Teichis Notizen/Vokabeln.md",
+    "Themen/Verschlüsselung.md",
+    "Themen/USV.md",
+    "1.md",
+    "2023-10-28.md",
+    "Themen",
+    "Lernfeld 9/Virtual Private Network.md",
+    "Verschlüsselung.tex",
+    "Anhang/SVG/Encryption_asymetrical-Vor-nach.svg",
+    "Anhang/SVG/Encryption_Symetrical-Vor-nach.svg",
+    "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf~RF80226d.TMP",
+    "Anhang/Excel/lu158084ooz5.tmp",
+    "Anhang/Excel/lu158084ooz2.tmp",
+    "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf",
+    "Anhang/Excel/lu158084ooyz.tmp",
+    "Anhang/Excel",
+    "Anhang/New folder",
+    "Anhang/SVG/Encryption_asymetrical.drawio.svg",
+    "Anhang/SVG/Encryption_Symetrical.drawio.svg",
+    "Anhang/SVG",
+    "Lernfeld 11b/Backup.md",
     "Lernfeld 11b/Firewall.md",
     "Lernfeld 11b/Routing.md",
     "Lernfeld 11b/Virtual Private Network (VPN).md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
-    "Lernfeld 9/Virtual Private Network.md",
     "Lernfeld 9/Virtual Private Network 1.md",
     "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
-    "Themen.md",
-    "2023-10-28.md",
     "Virt.md",
     "Lernfeld 6/Klausurvorbereitung/MPM Netzpläne.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Lernfeld 6/Netzpläne/Kriterien eines Projektes.md",
-    "Englisch/Teichis Notizen/Vokabeln.md",
-    "PoWi",
     "Englisch/Teichis Notizen/types of malware.md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM Musterlösung.md",
     "Berufsschule Vault/Attachments/Backupmedium.svg.md",
     "Berufsschule Vault/Attachments/differentielles Backup vs. inkrementales Backup.svg.md",
     "Berufsschule Vault/Attachments/DMZ.drawio.svg.md",
-    "Lernfeld 11b/Backup.md",
     "Berufsschule%20Vault/Attachments/LF11b_DiffBackup_19-10-23.svg.md",
-    "Berufsschule%20Vault/Attachments",
-    "Berufsschule%20Vault",
-    "Berufsschule Vault/Attachments/LF11b_InkrBackup_19-10-23.svg.md",
-    "Berufsschule Vault/Attachments/LF11b_DiffBackup_19-10-23.svg.md",
-    "Berufsschule Vault/Attachments",
-    "Berufsschule Vault",
-    "PoWi/Klausur/09.05.20.md"
+    "Berufsschule Vault/Attachments/LF11b_InkrBackup_19-10-23.svg.md"
   ]
 }
