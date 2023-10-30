@@ -1,4 +1,9 @@
+#### FiSi
+
 [USV](USV)
+
+SQL
+>[[Befehle im Überblick]]
 
 [Verschlüsselung](obsidian://open?vault=Berufsschule%20Vault&file=Verschl%C3%BCsselung)
 > [[Verschlüsselung#^faa9ae|Asymmetrisch]]
@@ -11,7 +16,10 @@ Skalierung
 Netzwerk
 > [[Routing|Routing]]
 > [[WLAN - Aufbau und Funktionsweise]]
->[Virtual Private Network](obsidian://open?vault=Berufsschule%20Vault&file=Lernfeld%209%2FVirtual%20Private%20Network)
+> [[Virtual Private Network]]
+> VLAN
+> IEEE 802.1X
+> IEEE 802.1AX
 
 Blue Green Deployment
 
@@ -22,3 +30,8 @@ Zertifikate
 >[[Klassendiagramme#^6d2107|Aggregation]]
 >[[Klassendiagramme#^1f5133|Komposition]]
 
+##### WiSO
+
+> Handelskalkulation
+> >Vorwärtskalkulation
+> >Rückwärtskalkulation
