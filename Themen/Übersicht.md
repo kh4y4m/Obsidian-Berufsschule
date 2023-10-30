@@ -14,7 +14,12 @@ Skalierung
 >Vertikale
 
 Netzwerk
+> [[IP-Adressen]]
 > [[Routing|Routing]]
+>> Distance Vector
+>> Linkstate
+>> Link-Aggregation
+>> Spanning Tree Protocol
 > [[WLAN - Aufbau und Funktionsweise]]
 > [[Virtual Private Network]]
 > VLAN

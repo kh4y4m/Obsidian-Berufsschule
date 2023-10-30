@@ -57,3 +57,4 @@ Der Aufbau und der Nachrichtenverlauf der zu filternden Protokolle muss klar sei
 - die Firewalls sind idealerwiese von unterschiedlichen Herstellern
 - das BSI empfiehlt den Einsatz unterschiedlicher FW-Arten
 
+#### IPv6 VPN Breakout
