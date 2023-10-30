@@ -4,6 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "2c43d6ffcbacaf6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39fb6c456cfa9153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Übersicht.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "d8d9f1f008a48ccd"
+          }
+        ]
+      },
+      {
         "id": "601ae92cb98a3778",
         "type": "tabs",
         "children": [
@@ -14,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "Themen/Übersicht.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -29,9 +48,11 @@
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "d8d9f1f008a48ccd"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -167,26 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b76222e86777d3fe",
+  "active": "39fb6c456cfa9153",
   "lastOpenFiles": [
-    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
-    "Themen/Übersicht.md",
-    "Lernfeld 9/Virtual Private Network.md",
-    "Lernfeld 11b/Routing.md",
-    "Themen/Klassendiagramme.md",
-    "Lernfeld 9/Virtual Private Network 1.md",
     "Anhang/SVG/VLAN.drawio",
-    "Themen/Verschlüsselung.md",
-    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
     "Themen/USV.md",
-    "Lernfeld 8/Klausuren/Musterlösungen/SQL Biesenberger 10.07.23.md",
-    "Lernfeld 7/Klausur 06.07.23.md",
-    "Lernfeld 7/Laborprotokoll.md",
-    "Lernfeld 7/MQTT-Verbindung zu Broker.md",
-    "Lernfeld 7/MQTT.md",
-    "Lernfeld 11b/Virtual Private Network (VPN).md",
-    "Lernfeld 11b/Backup.md",
-    "Lernfeld 11b/Firewall.md",
+    "Themen/Übersicht.md",
+    "Themen/Klassendiagramme.md",
+    "Themen/Verschlüsselung.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "2023-10-30.md",
@@ -198,6 +205,7 @@
     "1.md",
     "2023-10-28.md",
     "Themen",
+    "Lernfeld 9/Virtual Private Network.md",
     "Verschlüsselung.tex",
     "Anhang/SVG/Encryption_asymetrical-Vor-nach.svg",
     "Anhang/SVG/Encryption_Symetrical-Vor-nach.svg",
@@ -207,11 +215,24 @@
     "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf",
     "Anhang/Excel/lu158084ooyz.tmp",
     "Anhang/Excel",
+    "Anhang/New folder",
     "Anhang/SVG/Encryption_asymetrical.drawio.svg",
     "Anhang/SVG/Encryption_Symetrical.drawio.svg",
+    "Lernfeld 11b/Backup.md",
+    "Lernfeld 11b/Firewall.md",
+    "Lernfeld 11b/Routing.md",
+    "Lernfeld 11b/Virtual Private Network (VPN).md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
+    "Lernfeld 9/Virtual Private Network 1.md",
+    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
     "Virt.md",
     "Lernfeld 6/Klausurvorbereitung/MPM Netzpläne.md",
-    "Lernfeld 6/Netzpläne/Kriterien eines Projektes.md"
+    "Lernfeld 6/Netzpläne/Kriterien eines Projektes.md",
+    "Englisch/Teichis Notizen/types of malware.md",
+    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM Musterlösung.md",
+    "Berufsschule Vault/Attachments/Backupmedium.svg.md",
+    "Berufsschule Vault/Attachments/differentielles Backup vs. inkrementales Backup.svg.md",
+    "Berufsschule Vault/Attachments/DMZ.drawio.svg.md",
+    "Berufsschule%20Vault/Attachments/LF11b_DiffBackup_19-10-23.svg.md"
   ]
 }
