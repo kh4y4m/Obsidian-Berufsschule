@@ -4,6 +4,7 @@
 
 SQL
 >[[Befehle im Überblick]]
+>[[Datenbank Modelle]]
 
 [Verschlüsselung](obsidian://open?vault=Berufsschule%20Vault&file=Verschl%C3%BCsselung)
 > [[Verschlüsselung#^faa9ae|Asymmetrisch]]
@@ -22,7 +23,7 @@ Netzwerk
 >> Spanning Tree Protocol
 > [[WLAN - Aufbau und Funktionsweise]]
 > [[Virtual Private Network]]
-> VLAN
+> [[VLAN]]
 > IEEE 802.1X
 > IEEE 802.1AX
 
