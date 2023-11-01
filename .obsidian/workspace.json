@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypervisor.md",
+                "file": "Themen/IP-Adressen.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypervisor.md",
+                "file": "Themen/IP-Adressen.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,12 +85,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hypervisor.md",
+                "file": "Themen/IP-Adressen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hypervisor.md",
+                "file": "Themen/IP-Adressen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hypervisor.md"
+                "file": "Themen/IP-Adressen.md"
               }
             }
           },
@@ -177,10 +177,11 @@
   },
   "active": "39fb6c456cfa9153",
   "lastOpenFiles": [
-    "Anhang/SVG/Hypervisor_Typ2.drawio.svg",
-    "Anhang/SVG/Hypervisor_Typ1.drawio.svg",
+    "Anhang/SVG/Private_IPv4.svg",
     "Themen/Übersicht.md",
     "Hypervisor.md",
+    "Anhang/SVG/Hypervisor_Typ2.drawio.svg",
+    "Anhang/SVG/Hypervisor_Typ1.drawio.svg",
     "Themen/Datenbank Modelle.md",
     "Themen/Diffie-Hellman.md",
     "Themen/Klassendiagramme.md",
@@ -215,7 +216,6 @@
     "Themen",
     "Lernfeld 9/Virtual Private Network.md",
     "Verschlüsselung.tex",
-    "Anhang/SVG/Encryption_asymetrical-Vor-nach.svg",
     "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf~RF80226d.TMP",
     "Anhang/Excel/lu158084ooz5.tmp",
     "Anhang/Excel/lu158084ooz2.tmp",
