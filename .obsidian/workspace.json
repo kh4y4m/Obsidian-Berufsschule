@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/Übersicht.md",
-                "mode": "source",
+                "file": "Themen/VLAN.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "882e0778d2f9bea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Verschlüsselung.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Übersicht.md",
+                "file": "Themen/Verschlüsselung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Übersicht.md",
+                "file": "Themen/Verschlüsselung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Übersicht.md"
+                "file": "Themen/Verschlüsselung.md"
               }
             }
           },
@@ -167,19 +179,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b76222e86777d3fe",
+  "active": "882e0778d2f9bea2",
   "lastOpenFiles": [
-    "IP-Adressen.md",
-    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
     "Themen/Übersicht.md",
+    "Themen/USV.md",
+    "Themen/IP-Adressen.md",
+    "Themen/Verschlüsselung.md",
+    "Themen/Spanning Tree.md",
+    "Themen/Datenbank Modelle.md",
+    "Themen/VLAN.md",
+    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
     "Lernfeld 9/Virtual Private Network.md",
     "Lernfeld 11b/Routing.md",
     "Themen/Klassendiagramme.md",
     "Lernfeld 9/Virtual Private Network 1.md",
     "Anhang/SVG/VLAN.drawio",
-    "Themen/Verschlüsselung.md",
     "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-    "Themen/USV.md",
     "Lernfeld 8/Klausuren/Musterlösungen/SQL Biesenberger 10.07.23.md",
     "Lernfeld 7/Klausur 06.07.23.md",
     "Lernfeld 7/Laborprotokoll.md",
@@ -210,9 +225,6 @@
     "Anhang/Excel",
     "Anhang/SVG/Encryption_asymetrical.drawio.svg",
     "Anhang/SVG/Encryption_Symetrical.drawio.svg",
-    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
-    "Virt.md",
-    "Lernfeld 6/Klausurvorbereitung/MPM Netzpläne.md",
-    "Lernfeld 6/Netzpläne/Kriterien eines Projektes.md"
+    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md"
   ]
 }
