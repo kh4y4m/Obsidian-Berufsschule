@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Themen/Übersicht.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Themen/Übersicht.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Themen/Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Themen/Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/IP-Adressen.md"
+                "file": "Themen/Übersicht.md"
               }
             }
           },
@@ -177,15 +177,18 @@
   },
   "active": "39fb6c456cfa9153",
   "lastOpenFiles": [
-    "Anhang/SVG/Private_IPv4.svg",
+    "Themen/IP-Adressen.md",
     "Themen/Übersicht.md",
+    "Anhang/Excel/CIDR-Adressblock.ods",
+    "Anhang/Excel/lu20652996wh.tmp",
+    "Anhang/SVG/Hypervisor.drawio",
+    "Anhang/SVG/Private_IPv4.svg",
     "Hypervisor.md",
     "Anhang/SVG/Hypervisor_Typ2.drawio.svg",
     "Anhang/SVG/Hypervisor_Typ1.drawio.svg",
     "Themen/Datenbank Modelle.md",
     "Themen/Diffie-Hellman.md",
     "Themen/Klassendiagramme.md",
-    "Themen/IP-Adressen.md",
     "Datenbank Modelle.md",
     "Themen/VLAN.md",
     "Themen/Spanning Tree.md",
@@ -209,7 +212,6 @@
     "Anhang/SVG/Klassendiagramme.drawio",
     "Anhang/SVG/Klassendiagramme_Komposition.svg",
     "Anhang/SVG/Klassendiagramme_Aggregation.svg",
-    "Anhang/SVG/Klassendiagramme_Assoziation.svg",
     "Englisch/Teichis Notizen/Vokabeln.md",
     "1.md",
     "2023-10-28.md",
@@ -218,9 +220,6 @@
     "Verschlüsselung.tex",
     "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf~RF80226d.TMP",
     "Anhang/Excel/lu158084ooz5.tmp",
-    "Anhang/Excel/lu158084ooz2.tmp",
-    "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf",
-    "Anhang/Excel/lu158084ooyz.tmp",
     "Lernfeld 11b/Backup.md",
     "Lernfeld 11b/Virtual Private Network (VPN).md",
     "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",

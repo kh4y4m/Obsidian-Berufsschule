@@ -1,7 +1,7 @@
 ### 169.254.X.X
 #### IPv4
 32 bit -> 4,4 Mrd. Adressen
-schreibweise Dezimalschreibweise vier Oktetts (8 bit)
+Schreibweise Dezimalschreibweise vier Oktetts (8 bit)
 
 
 ##### Private IPv4-Adressen

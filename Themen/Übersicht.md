@@ -4,6 +4,11 @@
 
 [USV](USV)
 
+Cloud
+> SaaS
+> PaaS
+> IaaS
+
 SQL
 >[[Befehle im Überblick]]
 >[[Datenbank Modelle]]
