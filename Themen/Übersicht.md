@@ -36,7 +36,10 @@ Netzwerk
 >> Link-Aggregation
 >> Spanning Tree Protocol
 > [[WLAN - Aufbau und Funktionsweise]]
-> [[Virtual Private Network]]
+> %%[[Virtual Private Network]]%%
+> [[Virtual Private Network (VPN)]]
+> > IKE
+
 > [[VLAN]]
 > IEEE 802.1X
 > IEEE 802.1AX
