@@ -1,6 +1,13 @@
 #### FiSi
 
+[[Hypervisor]]
+
 [USV](USV)
+
+Cloud
+> SaaS
+> PaaS
+> IaaS
 
 SQL
 >[[Befehle im Überblick]]
@@ -9,6 +16,7 @@ SQL
 [Verschlüsselung](obsidian://open?vault=Berufsschule%20Vault&file=Verschl%C3%BCsselung)
 > [[Verschlüsselung#^faa9ae|Asymmetrisch]]
 > [[Verschlüsselung#^f55261|Symmetrisch]]
+> [[Diffie-Hellman]]
 
 Skalierung
 >Horizontale
