@@ -2,7 +2,7 @@
 
 ping 
 traceroute
-DNS
+[[DNS]]
 >iterativ
 >rekursiv
 
@@ -14,6 +14,13 @@ Cloud
 > SaaS
 > PaaS
 > IaaS
+
+[[Backup]]
+> [[Backup#**differentielles Backup**|differentielles Backup]]
+> [[Backup#**inkrementales Backup**|inkrementales Backup]]
+> [[Backup#**differentielles Backup vs. inkrementales Backup**|differentielles Backup vs. inkrementales Backup]]
+> [[Backup#**Großvater-Vater-Sohn (Generationenprinzip)**|Generationenprinzip]]
+> [[Backup#**Backupmedien**|Backupmedien]]
 
 SQL
 >[[Befehle im Überblick]]
@@ -39,6 +46,8 @@ Netzwerk
 > %%[[Virtual Private Network]]%%
 >
 > [[Virtual Private Network (VPN)]]
+>> [[Virtual Private Network (VPN)#<p style="text-align center;">Transport- und Tunnelmodus (HA)</p>| HA]]
+>> [[Virtual Private Network (VPN)#<p style="text-align center;">Security Association (SA)</p>|SA]]
 > > IKE
 > > IPsec
 

@@ -37,7 +37,11 @@ Aufgabe:
 **Aufbau eines WLAN-Frames**
 	
 	![[802.11_frame.png]]
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
+**Sicherungsmaßnahmen**
+
+
+---
 Quellen: [WLAN-Varianten](https://www.computerweekly.com/de/feature/Die-vier-verschiedenen-Arten-von-drahtlosen-Netzwerken),  [Problematik der "Hidden Station"](https://www.educative.io/answers/what-is-the-hidden-terminal-problem), [Sicherheitseinstellungen und Verschlüsselungsverfahren](https://www.telekom.de/hilfe/festnetz-internet-tv/sicherheit/wlan-sicherheit?samChecked=true), [rechtliche Vorschriften (Datensicherheit, Datenschutz)](https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/wlan.html)[
 Elektromagnetische Verträglichkeit](https://logistikknowhow.com/energie-und-umwelt/elektromagnetische-vertraeglichkeit-nach-emv-richtlinie-und-emvg/)
 
