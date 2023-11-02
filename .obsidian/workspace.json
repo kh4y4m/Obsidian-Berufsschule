@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Themen/Übersicht.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -181,9 +181,16 @@
   },
   "active": "882e0778d2f9bea2",
   "lastOpenFiles": [
+    "Hypervisor.md",
+    "Themen/Übersicht.md",
+    "Themen/Diffie-Hellman.md",
+    "Anhang/SVG/Private_IPv4.svg",
+    "Anhang/SVG/Hypervisor_Typ2.drawio.svg",
+    "Anhang/SVG/Hypervisor_Typ1.drawio.svg",
+    "Anhang/SVG/Hypervisor.drawio",
+    "Anhang/Excel/CIDR-Adressblock.ods",
     "Themen/IP-Adressen.md",
     "Themen/Verschlüsselung.md",
-    "Themen/Übersicht.md",
     "Themen/USV.md",
     "Themen/Spanning Tree.md",
     "Themen/Datenbank Modelle.md",
@@ -212,7 +219,6 @@
     "Anhang/SVG/Klassendiagramme_Assoziation.svg",
     "Englisch/Teichis Notizen/Vokabeln.md",
     "1.md",
-    "2023-10-28.md",
     "Themen",
     "Verschlüsselung.tex",
     "Anhang/SVG/Encryption_asymetrical-Vor-nach.svg",
@@ -221,10 +227,7 @@
     "Anhang/Excel/lu158084ooz5.tmp",
     "Anhang/Excel/lu158084ooz2.tmp",
     "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf",
-    "Anhang/Excel/lu158084ooyz.tmp",
-    "Anhang/Excel",
     "Anhang/SVG/Encryption_asymetrical.drawio.svg",
-    "Anhang/SVG/Encryption_Symetrical.drawio.svg",
-    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md"
+    "Anhang/SVG/Encryption_Symetrical.drawio.svg"
   ]
 }

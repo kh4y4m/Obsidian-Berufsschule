@@ -1,5 +1,11 @@
 #### FiSi
 
+ping 
+traceroute
+DNS
+>iterativ
+>rekursiv
+
 [[Hypervisor]]
 
 [USV](USV)
