@@ -37,8 +37,10 @@ Netzwerk
 >> Spanning Tree Protocol
 > [[WLAN - Aufbau und Funktionsweise]]
 > %%[[Virtual Private Network]]%%
+>
 > [[Virtual Private Network (VPN)]]
 > > IKE
+> > IPsec
 
 > [[VLAN]]
 > IEEE 802.1X
