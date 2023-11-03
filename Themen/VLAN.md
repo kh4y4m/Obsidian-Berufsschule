@@ -22,7 +22,7 @@ VLAN-Tag Feld:
 
 TCI – Tag Control Information:
 > PCP – Priority Code Point (3 Bit)
-> DEI– Drop Eligible Indicatort (1 Bit)
+> DEI– Drop Eligible Indicator (1 Bit)
 > VID– VLAN-Identifier (12 Bit)
 
 #### Funktionsweise

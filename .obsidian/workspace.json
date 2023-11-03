@@ -10,15 +10,13 @@
           {
             "id": "646504c3c14f38c3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Themen/Übersicht.md",
                 "mode": "preview",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -40,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Themen/Übersicht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08c90f70ce0a1e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI-Schichtenmodell.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Übersicht.md",
+                "file": "OSI-Schichtenmodell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Übersicht.md",
+                "file": "OSI-Schichtenmodell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Übersicht.md"
+                "file": "OSI-Schichtenmodell.md"
               }
             }
           },
@@ -219,20 +229,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b15e5014c783b165",
+  "active": "08c90f70ce0a1e3e",
   "lastOpenFiles": [
-    "DNS.md",
     "Themen/Übersicht.md",
+    "OSI-Schichtenmodell.md",
+    "Themen/VLAN.md",
+    "Lernfeld 11b/Backup.md",
+    "Themen/Hypervisor.md",
+    "DNS.md",
     "Lernfeld 11b/Firewall.md",
     "[Virtual Private Network (VPN).md",
-    "Themen/Hypervisor.md",
     "Themen/Verschlüsselung.md",
     "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
     "Untitled.canvas",
     "Lernfeld 6/Klausurvorbereitung/Themen.md",
     "2023-11-03.md",
     "Lernfeld 7/Klausur 06.07.23.md",
-    "Lernfeld 11b/Backup.md",
     "Anhang/SVG/IPv6_ImportantIP.drawio",
     "Anhang/SVG/DNS.drawio",
     "Themen/IP-Adressen.md",
@@ -240,7 +252,6 @@
     "Themen/Datenbank Modelle.md",
     "Lernfeld 11b/Virtual Private Network (VPN).md",
     "Anhang/SVG/IPv6_ImportantIP.svg",
-    "Themen/VLAN.md",
     "Lernfeld 9/Virtual Private Network.md",
     "Lernfeld 9/Virtual Private Network 1.md",
     "Themen/Spanning Tree.md",
