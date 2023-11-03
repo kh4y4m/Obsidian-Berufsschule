@@ -10,16 +10,79 @@
           {
             "id": "646504c3c14f38c3",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Übersicht.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2aaec3c38aa68da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15e5014c783b165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Übersicht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87a3f572ab44df3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Hypervisor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68492c36af0265b4",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Themen/Verschlüsselung.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19953ebb5d2addd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Verschlüsselung.md",
+                "file": "Themen/Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Verschlüsselung.md",
+                "file": "Themen/Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Verschlüsselung.md"
+                "file": "Themen/Übersicht.md"
               }
             }
           },
@@ -152,32 +215,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "646504c3c14f38c3",
+  "active": "b15e5014c783b165",
   "lastOpenFiles": [
-    "Themen/Übersicht.md",
-    "Lernfeld 11b/Backup.md",
     "DNS.md",
+    "Themen/Übersicht.md",
+    "Lernfeld 11b/Firewall.md",
+    "[Virtual Private Network (VPN).md",
+    "Themen/Hypervisor.md",
+    "Themen/Verschlüsselung.md",
+    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
+    "Untitled.canvas",
+    "Lernfeld 6/Klausurvorbereitung/Themen.md",
+    "2023-11-03.md",
+    "Lernfeld 7/Klausur 06.07.23.md",
+    "Lernfeld 11b/Backup.md",
     "Anhang/SVG/IPv6_ImportantIP.drawio",
     "Anhang/SVG/DNS.drawio",
-    "Themen/Verschlüsselung.md",
     "Themen/IP-Adressen.md",
     "Themen/Diffie-Hellman.md",
     "Themen/Datenbank Modelle.md",
     "Lernfeld 11b/Virtual Private Network (VPN).md",
     "Anhang/SVG/IPv6_ImportantIP.svg",
-    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
     "Themen/VLAN.md",
-    "Lernfeld 11b/Firewall.md",
     "Lernfeld 9/Virtual Private Network.md",
     "Lernfeld 9/Virtual Private Network 1.md",
     "Themen/Spanning Tree.md",
     "Themen/USV.md",
     "Themen/Klassendiagramme.md",
-    "[Virtual Private Network (VPN).md",
-    "Themen/Hypervisor.md",
     "Anhang/Excel/CIDR-Adressblock.ods",
     "Anhang/Excel/lu20652996wh.tmp",
     "Anhang/SVG/Hypervisor.drawio",
@@ -194,14 +262,10 @@
     "Anhang/SVG/ERM_Entity.drawio.svg",
     "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
     "IP-Adressen.md",
-    "Lernfeld 11b/Routing.md",
     "Anhang/SVG/VLAN.drawio",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "2023-10-30.md",
     "Anhang/SVG/Klassendiagramme.drawio",
     "Anhang/SVG/Klassendiagramme_Komposition.svg",
-    "Englisch/Teichis Notizen/Vokabeln.md",
     "Themen",
     "Verschlüsselung.tex"
   ]

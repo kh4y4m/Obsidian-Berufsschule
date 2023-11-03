@@ -11,6 +11,7 @@ Beim Hypervisor vom Typen 1 sind Betriebssystem (OS) und Hypervisor gebündelt "
 -> geeignet für den Einsatz im Unternehmensumfeld
 
 </br>
+
 #### Typ 2
 Beim Hypervisor vom Typen 2 ist der Hypervisor wie ein Programm auf einem Betriebssystem (OS) installiert. Neben dem Hypervisor können andere Software installiert sein und auf dem OS laufen.
 
@@ -19,3 +20,4 @@ Beim Hypervisor vom Typen 2 ist der Hypervisor wie ein Programm auf einem Betrie
  <font style="color:82B366">**Qualitäten**</font>
 -> einfache Installation des Hypervisors
 -> geeignet für den Einsatz im Privaten 
+

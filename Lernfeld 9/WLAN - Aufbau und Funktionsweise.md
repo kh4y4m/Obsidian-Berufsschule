@@ -1,5 +1,3 @@
-
-Aufgabe:
 **WLAN-Varianten**	
 	**WLAN**
 		WLAN ermöglicht den Internetzugang innerhalb eines Gebäudes oder eines begrenzten Außenbereiche.
