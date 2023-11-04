@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS.md",
+                "file": "Themen/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distance Vector.md",
+                "file": "Themen/Distance Vector.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Link-Aggregation.md",
+                "file": "Themen/Link-Aggregation.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Link-State.md",
+                "file": "Themen/Link-State.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanning Tree Protocol.md",
+                "file": "Themen/Spanning Tree Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "Themen/SQL.md",
                 "mode": "preview",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "Themen/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "Themen/SQL.md",
                 "mode": "preview",
                 "source": false
               }
@@ -196,15 +196,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/Klassendiagramme.md",
+                "file": "Themen/SQL.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdf1eb96f52fdc1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/[Virtual Private Network (VPN).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db717f6127d56285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 11b/Virtual Private Network (VPN).md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -270,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Klassendiagramme.md",
+                "file": "Lernfeld 11b/Virtual Private Network (VPN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Klassendiagramme.md",
+                "file": "Lernfeld 11b/Virtual Private Network (VPN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Klassendiagramme.md"
+                "file": "Lernfeld 11b/Virtual Private Network (VPN).md"
               }
             }
           },
@@ -337,26 +363,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "5db6fcc1050da685",
+  "active": "db717f6127d56285",
   "lastOpenFiles": [
-    "Themen/Übersicht.md",
+    "Themen/SQL.md",
+    "Themen/[Virtual Private Network (VPN).md",
+    "Themen/Distance Vector.md",
     "Themen/Klassendiagramme.md",
+    "Themen/Übersicht.md",
     "Themen/IP-Adressen.md",
-    "[Virtual Private Network (VPN).md",
     "2023-11-03.md",
-    "Link-Aggregation.md",
-    "Spanning Tree Protocol.md",
-    "SQL.md",
+    "Themen/Link-Aggregation.md",
+    "Themen/Spanning Tree Protocol.md",
     "Untitled.canvas",
-    "Distance Vector.md",
-    "DNS.md",
-    "OSI-Schichtenmodell.md",
+    "Themen/DNS.md",
+    "Themen/OSI-Schichtenmodell.md",
     "Lernfeld 11b/Routing.md",
-    "Link-State.md",
+    "Themen/Link-State.md",
     "conflict-files-obsidian-git.md",
     "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
     "Themen/Verschlüsselung.md",
