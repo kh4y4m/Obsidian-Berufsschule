@@ -10,7 +10,7 @@
 
 
 
-###### **inkrementales Backup**
+###### **inkrementelles Backup**
 *...eine Datensicherung, die nur die Dateien kopiert, die seit dem letzten inkrementellem Backup geändert wurden*
 
 ![[LF11b_InkrBackup_19-10-23.svg]]

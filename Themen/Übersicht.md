@@ -1,5 +1,6 @@
 #### FiSi
 
+[[OSI-Schichtenmodell]]
 ping 
 traceroute
 [[DNS]]
@@ -17,7 +18,7 @@ Cloud
 
 [[Backup]]
 > [[Backup#**differentielles Backup**|differentielles Backup]]
-> [[Backup#**inkrementales Backup**|inkrementales Backup]]
+> [[Backup#**inkrementelles Backup**|inkrementelles Backup]]
 > [[Backup#**differentielles Backup vs. inkrementales Backup**|differentielles Backup vs. inkrementales Backup]]
 > [[Backup#**Großvater-Vater-Sohn (Generationenprinzip)**|Generationenprinzip]]
 > [[Backup#**Backupmedien**|Backupmedien]]

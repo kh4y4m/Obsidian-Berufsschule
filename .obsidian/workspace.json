@@ -22,6 +22,19 @@
             }
           },
           {
+            "id": "0ec42b7fbbd515c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2aaec3c38aa68da5",
             "type": "leaf",
             "state": {
@@ -190,7 +203,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,19 +342,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "646504c3c14f38c3",
+  "active": "0ec42b7fbbd515c6",
   "lastOpenFiles": [
-    "SQL.md",
-    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+    "OSI-Schichtenmodell.md",
     "Themen/Übersicht.md",
-    "DNS.md",
-    "Link-Aggregation.md",
     "Distance Vector.md",
     "Lernfeld 11b/Routing.md",
+    "Link-State.md",
+    "conflict-files-obsidian-git.md",
+    "SQL.md",
+    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+    "DNS.md",
+    "Link-Aggregation.md",
     "Themen/Verschlüsselung.md",
     "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
     "Anhang/SVG/Link-Aggregation.drawio.svg",
-    "Link-State.md",
     "Spanning Tree Protocol.md",
     "Themen/IP-Adressen.md",
     "Lernfeld 11b/Firewall.md",
@@ -359,8 +375,6 @@
     "Anhang/SVG/IPv6_ImportantIP.svg",
     "Themen/VLAN.md",
     "Lernfeld 9/Virtual Private Network.md",
-    "Lernfeld 9/Virtual Private Network 1.md",
-    "Themen/Spanning Tree.md",
     "Anhang/Excel/CIDR-Adressblock.ods",
     "Anhang/Excel/lu20652996wh.tmp",
     "Anhang/SVG/Hypervisor.drawio",
