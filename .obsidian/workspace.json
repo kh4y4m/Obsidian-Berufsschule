@@ -39,7 +39,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Distance Vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ae20c9de8142c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Link-Aggregation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "498f9ef52f020ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Link-State.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce99335db2508499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanning Tree Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,9 +116,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dbffcd4aa2d4e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86d3e928c311b183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86d7cdd316985ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5503b5df55c4df13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69c4d0c832dfb52c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efaed5cd7a349c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Themen/Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Themen/Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/IP-Adressen.md"
+                "file": "Themen/Übersicht.md"
               }
             }
           },
@@ -216,18 +324,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b15e5014c783b165",
+  "active": "646504c3c14f38c3",
   "lastOpenFiles": [
+    "SQL.md",
+    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
     "Themen/Übersicht.md",
     "DNS.md",
+    "Link-Aggregation.md",
+    "Distance Vector.md",
+    "Lernfeld 11b/Routing.md",
+    "Themen/Verschlüsselung.md",
+    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
+    "Anhang/SVG/Link-Aggregation.drawio.svg",
+    "Link-State.md",
+    "Spanning Tree Protocol.md",
+    "Themen/IP-Adressen.md",
     "Lernfeld 11b/Firewall.md",
     "[Virtual Private Network (VPN).md",
     "Themen/Hypervisor.md",
-    "Themen/Verschlüsselung.md",
-    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
     "Untitled.canvas",
     "Lernfeld 6/Klausurvorbereitung/Themen.md",
     "2023-11-03.md",
@@ -235,7 +353,6 @@
     "Lernfeld 11b/Backup.md",
     "Anhang/SVG/IPv6_ImportantIP.drawio",
     "Anhang/SVG/DNS.drawio",
-    "Themen/IP-Adressen.md",
     "Themen/Diffie-Hellman.md",
     "Themen/Datenbank Modelle.md",
     "Lernfeld 11b/Virtual Private Network (VPN).md",
@@ -244,28 +361,21 @@
     "Lernfeld 9/Virtual Private Network.md",
     "Lernfeld 9/Virtual Private Network 1.md",
     "Themen/Spanning Tree.md",
-    "Themen/USV.md",
-    "Themen/Klassendiagramme.md",
     "Anhang/Excel/CIDR-Adressblock.ods",
     "Anhang/Excel/lu20652996wh.tmp",
     "Anhang/SVG/Hypervisor.drawio",
     "Anhang/SVG/Private_IPv4.svg",
     "Anhang/SVG/Hypervisor_Typ2.drawio.svg",
     "Anhang/SVG/Hypervisor_Typ1.drawio.svg",
-    "Datenbank Modelle.md",
-    "VLAN.md",
     "Anhang/SVG/VLAN_Ethernetpaket.svg",
     "Anhang/SVG/ERM.drawio",
     "Anhang/SVG/ERM_kardi.drawio.svg",
     "Anhang/SVG/Klassendiagramme_Attribut.svg",
     "Anhang/SVG/ERM_Beziehung.drawio.svg",
     "Anhang/SVG/ERM_Entity.drawio.svg",
-    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-    "IP-Adressen.md",
     "Anhang/SVG/VLAN.drawio",
     "Untitled 1.canvas",
     "Anhang/SVG/Klassendiagramme.drawio",
-    "Anhang/SVG/Klassendiagramme_Komposition.svg",
     "Themen",
     "Verschlüsselung.tex"
   ]

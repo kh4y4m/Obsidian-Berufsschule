@@ -22,7 +22,7 @@ Cloud
 > [[Backup#**Großvater-Vater-Sohn (Generationenprinzip)**|Generationenprinzip]]
 > [[Backup#**Backupmedien**|Backupmedien]]
 
-SQL
+[[SQL]]
 >[[Befehle im Überblick]]
 >[[Datenbank Modelle]]
 
@@ -38,10 +38,10 @@ Skalierung
 Netzwerk
 > [[IP-Adressen]]
 > [[Routing|Routing]]
->> Distance Vector
->> Linkstate
->> Link-Aggregation
->> Spanning Tree Protocol
+>> [[Distance Vector]]
+>> [[Link-State]]
+>> [[Link-Aggregation]]
+>> [[Spanning Tree Protocol]]
 > [[WLAN - Aufbau und Funktionsweise]]
 > %%[[Virtual Private Network]]%%
 >
