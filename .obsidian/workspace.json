@@ -15,175 +15,20 @@
               "type": "markdown",
               "state": {
                 "file": "Themen/Übersicht.md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "2aaec3c38aa68da5",
+            "id": "914304df0ddddaf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b15e5014c783b165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Distance Vector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ae20c9de8142c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Link-Aggregation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "498f9ef52f020ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Link-State.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce99335db2508499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Spanning Tree Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87a3f572ab44df3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Hypervisor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68492c36af0265b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Verschlüsselung.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b19953ebb5d2addd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dbffcd4aa2d4e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/SQL.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86d3e928c311b183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86d7cdd316985ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5503b5df55c4df13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69c4d0c832dfb52c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/SQL.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efaed5cd7a349c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+                "file": "Themen/Übersicht.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,38 +36,12 @@
             }
           },
           {
-            "id": "5db6fcc1050da685",
+            "id": "79314f1126e61c32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/SQL.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf1eb96f52fdc1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/[Virtual Private Network (VPN).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db717f6127d56285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld 11b/Virtual Private Network (VPN).md",
+                "file": "Blue Green Deployment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -230,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,35 +110,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "233cfe42c4b9d16e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Lernfeld 11b/Virtual Private Network (VPN).md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b9146885f739c2fd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Lernfeld 11b/Virtual Private Network (VPN).md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "47383de585baa881",
             "type": "leaf",
             "state": {
@@ -336,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 11b/Virtual Private Network (VPN).md"
+                "file": "Blue Green Deployment.md"
               }
             }
           },
@@ -347,9 +137,37 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "93cd05c7d79db587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blue Green Deployment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2219bc3c0f3a96fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blue Green Deployment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -366,55 +184,55 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "db717f6127d56285",
+  "active": "79314f1126e61c32",
   "lastOpenFiles": [
-    "Themen/SQL.md",
-    "Themen/[Virtual Private Network (VPN).md",
-    "Themen/Distance Vector.md",
-    "Themen/Klassendiagramme.md",
     "Themen/Übersicht.md",
-    "Themen/IP-Adressen.md",
-    "2023-11-03.md",
-    "Themen/Link-Aggregation.md",
-    "Themen/Spanning Tree Protocol.md",
-    "Untitled.canvas",
+    "Blue Green Deployment.md",
+    "Skalierung.md",
+    "Vertikale Skalierung (scale up).md",
+    "Cloud.md",
+    "Anhang/SVG/Blue_Green_Deployement.drawio.svg",
+    "Horizontale Skalierung (scale out).md",
+    "Themen/VLAN.md",
+    "Themen/Well Known Ports.md",
+    "Themen/Datenbank Modelle.md",
+    "Themen/Diffie-Hellman.md",
+    "Themen/Distance Vector.md",
     "Themen/DNS.md",
-    "Themen/OSI-Schichtenmodell.md",
-    "Lernfeld 11b/Routing.md",
-    "Themen/Link-State.md",
-    "conflict-files-obsidian-git.md",
-    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-    "Themen/Verschlüsselung.md",
-    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
-    "Anhang/SVG/Link-Aggregation.drawio.svg",
-    "Lernfeld 11b/Firewall.md",
     "Themen/Hypervisor.md",
-    "Lernfeld 6/Klausurvorbereitung/Themen.md",
-    "Lernfeld 7/Klausur 06.07.23.md",
-    "Lernfeld 11b/Backup.md",
+    "Themen/USV.md",
+    "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
+    "Anhang/SVG/VI_UPS_-_Line_Interactive_UPS_(German).svg",
+    "Anhang/SVG/VFI_UPS_-_Online_UPS_(German).svg",
+    "Anhang/SVG/1280px-VFI_UPS_-_Online_UPS_(German).svg",
+    "IaaS.md",
+    "Anhang/SVG/saas-paas-iaas-diagram.svg",
+    "PaaS.md",
+    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM Musterlösung.md",
+    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
+    "SaaS.md",
+    "Themen/OSI-Schichtenmodell.md",
+    "iso.md",
+    "Anhang/Excel/OSI.svg",
+    "Anhang/SVG/ISO-OSI-7-Schichten-Modell_(in_Deutsch).svg",
+    "Lernfeld 8/Datenabfrage mit Gruppierung und Aggregatfunktionen.md",
+    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+    "Anhang/Excel/Wellknownports.csv",
+    "Anhang/Excel/lu27403zhre.tmp",
+    "Anhang/SVG/IPsec.drawio.svg",
+    "Lernfeld 11b/Virtual Private Network (VPN).md",
+    "Themen/SQL.md",
+    "Themen/Verschlüsselung.md",
+    "Untitled.canvas",
+    "Anhang/SVG/Link-Aggregation.drawio.svg",
     "Anhang/SVG/IPv6_ImportantIP.drawio",
     "Anhang/SVG/DNS.drawio",
-    "Themen/Diffie-Hellman.md",
-    "Themen/Datenbank Modelle.md",
-    "Lernfeld 11b/Virtual Private Network (VPN).md",
-    "Anhang/SVG/IPv6_ImportantIP.svg",
-    "Themen/VLAN.md",
     "Anhang/Excel/CIDR-Adressblock.ods",
     "Anhang/Excel/lu20652996wh.tmp",
     "Anhang/SVG/Hypervisor.drawio",
-    "Anhang/SVG/Private_IPv4.svg",
-    "Anhang/SVG/Hypervisor_Typ2.drawio.svg",
-    "Anhang/SVG/Hypervisor_Typ1.drawio.svg",
-    "Anhang/SVG/VLAN_Ethernetpaket.svg",
     "Anhang/SVG/ERM.drawio",
-    "Anhang/SVG/ERM_kardi.drawio.svg",
-    "Anhang/SVG/Klassendiagramme_Attribut.svg",
-    "Anhang/SVG/ERM_Beziehung.drawio.svg",
-    "Anhang/SVG/ERM_Entity.drawio.svg",
     "Anhang/SVG/VLAN.drawio",
     "Untitled 1.canvas",
-    "Anhang/SVG/Klassendiagramme.drawio",
-    "Themen",
-    "Verschlüsselung.tex"
+    "Anhang/SVG/Klassendiagramme.drawio"
   ]
 }

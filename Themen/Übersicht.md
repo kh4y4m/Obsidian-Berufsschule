@@ -11,10 +11,12 @@ traceroute
 
 [USV](USV)
 
-Cloud
-> SaaS
-> PaaS
-> IaaS
+[[Well Known Ports]]
+
+[[Cloud]]
+> [[SaaS]]
+> [[PaaS]]
+> [[IaaS]]
 
 [[Backup]]
 > [[Backup#**differentielles Backup**|differentielles Backup]]
@@ -32,9 +34,9 @@ Cloud
 > [[Verschlüsselung#^f55261|Symmetrisch]]
 > [[Diffie-Hellman]]
 
-Skalierung
->Horizontale
->Vertikale
+[[Skalierung]]
+>[[Horizontale Skalierung (scale out)]]
+>[[Vertikale Skalierung (scale up)]]
 
 Netzwerk
 > [[IP-Adressen]]
@@ -49,14 +51,16 @@ Netzwerk
 > [[Virtual Private Network (VPN)]]
 >> [[Virtual Private Network (VPN)#<p style="text-align center;">Transport- und Tunnelmodus (HA)</p>| HA]]
 >> [[Virtual Private Network (VPN)#<p style="text-align center;">Security Association (SA)</p>|SA]]
-> > IKE
+> > [[IKE (Internet-Key-Exchange-Protokoll)]]
 > > IPsec
 
 > [[VLAN]]
 > IEEE 802.1X
-> IEEE 802.1AX
 
-Blue Green Deployment
+[[Blue Green Deployment]]
+[[Skalierung]]
+> [[Vertikale Skalierung (scale up)]]
+> [[Horizontale Skalierung (scale out)]]
 
 Zertifikate
 
