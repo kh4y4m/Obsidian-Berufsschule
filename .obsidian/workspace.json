@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Themen/1 Übersicht.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -36,12 +36,25 @@
             }
           },
           {
-            "id": "79314f1126e61c32",
+            "id": "4ab2cfa5e1f9358a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Themen/Schutzziele.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4ec6c7762d2b1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Kommandozeile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/1 Übersicht.md"
+                "file": "Themen/Kommandozeile.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Themen/Kommandozeile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Themen/Kommandozeile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,47 +198,47 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "18e1242cc8b1290a",
+  "active": "462f53cb6236df75",
   "lastOpenFiles": [
-    "Themen/[Virtual Private Network (VPN).md",
-    "Themen/1 Übersicht.md",
-    "Themen/Blue Green Deployment.md",
+    "Themen/traceroute.md",
+    "Themen/Kommandozeile.md",
+    "Anhang/SVG/tracert.drawio.svg",
+    "Anhang/SVG/ping.drawio",
+    "Themen/ping.md",
     "Themen/Cloud.md",
+    "Anhang/SVG/ping.drawio.svg",
+    "Themen/Diffie-Hellman.md",
+    "Themen/DNS.md",
+    "Themen/Horizontale Skalierung (scale out).md",
+    "Themen/PaaS.md",
+    "Themen/IaaS.md",
+    "Themen/SaaS.md",
+    "Themen/Schutzziele.md",
+    "Themen/1 Übersicht.md",
+    "Themen/Datenbank Modelle.md",
+    "Themen/Blue Green Deployment.md",
+    "Themen/IP-Adressen.md",
+    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
+    "Themen/OSI-Schichtenmodell.md",
+    "Anhang/SVG/BSI_Schutzziele.svg",
+    "Themen/ipconfig.md",
+    "Themen/[Virtual Private Network (VPN).md",
     "Themen/Skalierung.md",
     "Themen/Vertikale Skalierung (scale up).md",
     "Anhang/SVG/Blue_Green_Deployement.drawio.svg",
-    "Themen/Horizontale Skalierung (scale out).md",
     "Themen/VLAN.md",
     "Themen/Well Known Ports.md",
-    "Themen/Datenbank Modelle.md",
-    "Themen/Diffie-Hellman.md",
     "Themen/Distance Vector.md",
-    "Themen/DNS.md",
     "Themen/Hypervisor.md",
-    "Themen/USV.md",
     "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
     "Anhang/SVG/VI_UPS_-_Line_Interactive_UPS_(German).svg",
     "Anhang/SVG/VFI_UPS_-_Online_UPS_(German).svg",
     "Anhang/SVG/1280px-VFI_UPS_-_Online_UPS_(German).svg",
-    "Themen/IaaS.md",
     "Anhang/SVG/saas-paas-iaas-diagram.svg",
-    "Themen/PaaS.md",
-    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM Musterlösung.md",
-    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
-    "Themen/SaaS.md",
-    "Themen/OSI-Schichtenmodell.md",
-    "iso.md",
     "Anhang/Excel/OSI.svg",
-    "Anhang/SVG/ISO-OSI-7-Schichten-Modell_(in_Deutsch).svg",
-    "Lernfeld 8/Datenabfrage mit Gruppierung und Aggregatfunktionen.md",
-    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
     "Anhang/Excel/Wellknownports.csv",
     "Anhang/Excel/lu27403zhre.tmp",
-    "Anhang/SVG/IPsec.drawio.svg",
-    "Lernfeld 11b/Virtual Private Network (VPN).md",
-    "Themen/SQL.md",
     "Untitled.canvas",
-    "Anhang/SVG/Link-Aggregation.drawio.svg",
     "Anhang/SVG/IPv6_ImportantIP.drawio",
     "Anhang/SVG/DNS.drawio",
     "Anhang/Excel/CIDR-Adressblock.ods",
@@ -233,7 +246,6 @@
     "Anhang/SVG/Hypervisor.drawio",
     "Anhang/SVG/ERM.drawio",
     "Anhang/SVG/VLAN.drawio",
-    "Untitled 1.canvas",
-    "Anhang/SVG/Klassendiagramme.drawio"
+    "Untitled 1.canvas"
   ]
 }

@@ -1,8 +1,12 @@
 #### FiSi
 
+[[Schutzziele]]
 [[OSI-Schichtenmodell]]
-ping 
-traceroute
+[[Kommandozeile]]
+>[[ping]]
+>[[traceroute]]
+>[[ipconfig]]
+
 [[DNS]]
 >iterativ
 >rekursiv

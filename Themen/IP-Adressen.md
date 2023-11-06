@@ -10,6 +10,23 @@ Diese Adressen werden im Internet nicht geroutet *
 
 ![[Private_IPv4.svg|710]]
 
+##### Anzahl von IP-Adressen 
+$$
+\begin{align} 
+\text{n = Subnetz in CIDR}\\
+2^{32-n}-2
+\end{align}
+$$
+
+$$
+\begin{align} 
+10.0.0.0/24\\
+2^{32-24} -2= 2^8-2 = 256-2 = 254
+\end{align} 
+$$
+
+
+
 ##### Dualstack
 
 ---
