@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/Kommandozeile.md",
+                "file": "Themen/Blue Green Deployment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Kommandozeile.md"
+                "file": "Themen/Blue Green Deployment.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Kommandozeile.md",
+                "file": "Themen/Blue Green Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Kommandozeile.md",
+                "file": "Themen/Blue Green Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,10 +198,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "462f53cb6236df75",
+  "active": "e4ec6c7762d2b1e8",
   "lastOpenFiles": [
-    "Themen/traceroute.md",
     "Themen/Kommandozeile.md",
+    "Anhang/SVG/Blue_Green_Deployement.drawio",
+    "Anhang/SVG/tracert.drawio",
+    "Anhang/SVG/Schutzziele.drawio",
+    "Themen/traceroute.md",
     "Anhang/SVG/tracert.drawio.svg",
     "Anhang/SVG/ping.drawio",
     "Themen/ping.md",
@@ -243,9 +246,6 @@
     "Anhang/SVG/DNS.drawio",
     "Anhang/Excel/CIDR-Adressblock.ods",
     "Anhang/Excel/lu20652996wh.tmp",
-    "Anhang/SVG/Hypervisor.drawio",
-    "Anhang/SVG/ERM.drawio",
-    "Anhang/SVG/VLAN.drawio",
     "Untitled 1.canvas"
   ]
 }
