@@ -54,8 +54,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/Blue Green Deployment.md",
-                "mode": "source",
+                "file": "Themen/Cloud.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Blue Green Deployment.md"
+                "file": "Themen/Cloud.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Blue Green Deployment.md",
+                "file": "Themen/Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Blue Green Deployment.md",
+                "file": "Themen/Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,6 +200,9 @@
   },
   "active": "e4ec6c7762d2b1e8",
   "lastOpenFiles": [
+    "Themen/1 Übersicht.md",
+    "Lernfeld 11b/Virtual Private Network (VPN).md",
+    "Themen/Blue Green Deployment.md",
     "Themen/Kommandozeile.md",
     "Anhang/SVG/Blue_Green_Deployement.drawio",
     "Anhang/SVG/tracert.drawio",
@@ -217,9 +220,7 @@
     "Themen/IaaS.md",
     "Themen/SaaS.md",
     "Themen/Schutzziele.md",
-    "Themen/1 Übersicht.md",
     "Themen/Datenbank Modelle.md",
-    "Themen/Blue Green Deployment.md",
     "Themen/IP-Adressen.md",
     "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
     "Themen/OSI-Schichtenmodell.md",

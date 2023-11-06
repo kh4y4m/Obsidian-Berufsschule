@@ -42,7 +42,7 @@
 >[[Horizontale Skalierung (scale out)]]
 >[[Vertikale Skalierung (scale up)]]
 
-Netzwerk
+#### Netzwerk
 > [[IP-Adressen]]
 > [[Routing|Routing]]
 >> [[Distance Vector]]
@@ -51,8 +51,9 @@ Netzwerk
 >> [[Spanning Tree Protocol]]
 > [[WLAN - Aufbau und Funktionsweise]]
 > %%[[Virtual Private Network]]%%
->
-> [[Virtual Private Network (VPN)]]
+
+
+>[[Virtual Private Network (VPN)]]
 >> [[Virtual Private Network (VPN)#<p style="text-align center;">Transport- und Tunnelmodus (HA)</p>| HA]]
 >> [[Virtual Private Network (VPN)#<p style="text-align center;">Security Association (SA)</p>|SA]]
 > > [[IKE (Internet-Key-Exchange-Protokoll)]]
