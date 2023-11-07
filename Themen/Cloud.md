@@ -10,4 +10,14 @@
 
 ![[IaaS]]
 
+---
 
+![[Public Cloud]]
+
+---
+
+![[Private Cloud]]
+
+---
+
+![[Public Cloud vs Private Cloud]]

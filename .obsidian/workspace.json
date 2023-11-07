@@ -54,7 +54,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Themen/Cloud.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b2835a75e2dfbec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public Cloud vs Private Cloud.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d97c13121ab3026e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public Cloud.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/1 Übersicht.md"
+                "file": "Public Cloud vs Private Cloud.md"
               }
             }
           },
@@ -157,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Public Cloud vs Private Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Public Cloud vs Private Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,12 +224,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e4ec6c7762d2b1e8",
+  "active": "9b2835a75e2dfbec",
   "lastOpenFiles": [
+    "Themen/Cloud.md",
+    "Public Cloud vs Private Cloud.md",
+    "Themen/1 Übersicht.md",
+    "Public Cloud.md",
+    "Private Cloud.md",
+    "Anhang/SVG/PublicCloud.drawio.svg",
+    "Anhang/SVG/privateCloud.drawio.svg",
     "Anhang/Excel/lu27403zhrf.tmp",
     "Themen/SaaS.md",
-    "Themen/1 Übersicht.md",
-    "Themen/Cloud.md",
     "Themen/Blue Green Deployment.md",
     "Lernfeld 11b/Virtual Private Network (VPN).md",
     "Themen/Kommandozeile.md",
@@ -232,21 +263,16 @@
     "Themen/Vertikale Skalierung (scale up).md",
     "Anhang/SVG/Blue_Green_Deployement.drawio.svg",
     "Themen/VLAN.md",
-    "Themen/Well Known Ports.md",
-    "Themen/Distance Vector.md",
     "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
     "Anhang/SVG/VI_UPS_-_Line_Interactive_UPS_(German).svg",
     "Anhang/SVG/VFI_UPS_-_Online_UPS_(German).svg",
     "Anhang/SVG/1280px-VFI_UPS_-_Online_UPS_(German).svg",
-    "Anhang/SVG/saas-paas-iaas-diagram.svg",
-    "Anhang/Excel/OSI.svg",
     "Anhang/Excel/Wellknownports.csv",
     "Anhang/Excel/lu27403zhre.tmp",
     "Untitled.canvas",
     "Anhang/SVG/IPv6_ImportantIP.drawio",
     "Anhang/SVG/DNS.drawio",
     "Anhang/Excel/CIDR-Adressblock.ods",
-    "Anhang/Excel/lu20652996wh.tmp",
     "Untitled 1.canvas"
   ]
 }

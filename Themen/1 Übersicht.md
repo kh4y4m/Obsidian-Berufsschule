@@ -18,8 +18,8 @@
 [[Well Known Ports]]
 
 [[Cloud]]
-> [[private Cloud]]
->  [[public Cloud]]
+> [[Private Cloud]]
+>  [[Public Cloud]]
 > [[SaaS]]
 > [[PaaS]]
 > [[IaaS]]
