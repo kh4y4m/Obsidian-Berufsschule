@@ -49,7 +49,7 @@
 > [[Routing|Routing]]
 >> [[Distance Vector]]
 >> [[Link-State]]
->> [[Link-Aggregation]]
+>> [[Link-Aggregation (LAG)]]
 >> [[Spanning Tree Protocol]]
 > [[WLAN - Aufbau und Funktionsweise]]
 > %%[[Virtual Private Network]]%%

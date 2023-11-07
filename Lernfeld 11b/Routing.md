@@ -13,7 +13,7 @@
 
 ---
 
-![[Link-Aggregation]]
+![[Link-Aggregation (LAG)]]
 
 ---
 

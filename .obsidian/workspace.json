@@ -23,72 +23,46 @@
             }
           },
           {
-            "id": "914304df0ddddaf9",
+            "id": "5155429dcf188745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/DNS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68e10ff5844249ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/OSI-Schichtenmodell.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a283d2bc51c9bcee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Themen/1 Übersicht.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ab2cfa5e1f9358a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Schutzziele.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4ec6c7762d2b1e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Cloud.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b2835a75e2dfbec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/IP-Adressen.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97c13121ab3026e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public Cloud.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/IP-Adressen.md"
+                "file": "Themen/1 Übersicht.md"
               }
             }
           },
@@ -184,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Themen/1 Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Themen/1 Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,23 +199,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9b2835a75e2dfbec",
+  "active": "a283d2bc51c9bcee",
   "lastOpenFiles": [
+    "Themen/Spanning Tree Protocol.md",
+    "Themen/1 Übersicht.md",
+    "Themen/Link-Aggregation (LAG).md",
+    "Themen/Distance Vector.md",
+    "Themen/Vertikale Skalierung (scale up).md",
+    "Themen/DNS.md",
+    "Themen/OSI-Schichtenmodell.md",
+    "Themen/Horizontale Skalierung (scale out).md",
+    "Themen/Skalierung.md",
+    "Lernfeld 11b/Routing.md",
+    "Themen/Blue Green Deployment.md",
+    "Themen/Kommandozeile.md",
+    "Themen/Schutzziele.md",
+    "Themen/Cloud.md",
+    "Themen/IP-Adressen.md",
+    "Public Cloud.md",
+    "Themen/USV.md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
-    "Themen/Cloud.md",
     "Public Cloud vs Private Cloud.md",
-    "Themen/1 Übersicht.md",
-    "Public Cloud.md",
     "Private Cloud.md",
     "Anhang/SVG/PublicCloud.drawio.svg",
     "Anhang/SVG/privateCloud.drawio.svg",
     "Anhang/Excel/lu27403zhrf.tmp",
     "Themen/SaaS.md",
-    "Themen/Blue Green Deployment.md",
     "Lernfeld 11b/Virtual Private Network (VPN).md",
-    "Themen/Kommandozeile.md",
     "Anhang/SVG/Blue_Green_Deployement.drawio",
     "Anhang/SVG/tracert.drawio",
     "Anhang/SVG/Schutzziele.drawio",
@@ -251,20 +237,9 @@
     "Themen/ping.md",
     "Anhang/SVG/ping.drawio.svg",
     "Themen/Diffie-Hellman.md",
-    "Themen/DNS.md",
-    "Themen/Horizontale Skalierung (scale out).md",
     "Themen/PaaS.md",
     "Themen/IaaS.md",
-    "Themen/Schutzziele.md",
-    "Themen/Datenbank Modelle.md",
-    "Themen/IP-Adressen.md",
-    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
-    "Themen/OSI-Schichtenmodell.md",
     "Anhang/SVG/BSI_Schutzziele.svg",
-    "Themen/ipconfig.md",
-    "Themen/[Virtual Private Network (VPN).md",
-    "Themen/Skalierung.md",
-    "Themen/Vertikale Skalierung (scale up).md",
     "Anhang/SVG/Blue_Green_Deployement.drawio.svg",
     "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
     "Anhang/SVG/VI_UPS_-_Line_Interactive_UPS_(German).svg",
@@ -273,7 +248,6 @@
     "Anhang/Excel/lu27403zhre.tmp",
     "Untitled.canvas",
     "Anhang/SVG/IPv6_ImportantIP.drawio",
-    "Anhang/SVG/DNS.drawio",
     "Untitled 1.canvas"
   ]
 }
