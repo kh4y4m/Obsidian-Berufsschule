@@ -68,9 +68,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "844f6d01ab449fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/IP-Adressen.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/VLAN.md"
+                "file": "Themen/IP-Adressen.md"
               }
             }
           },
@@ -166,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/VLAN.md",
+                "file": "Themen/IP-Adressen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/VLAN.md",
+                "file": "Themen/IP-Adressen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +220,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e78ff9b284f868d5",
+  "active": "844f6d01ab449fd0",
   "lastOpenFiles": [
     "Themen/1 Übersicht.md",
+    "Themen/DNS.md",
+    "Themen/VLAN.md",
     "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
     "Themen/Verschlüsselung.md",
     "Themen/Diffie-Hellman.md",
@@ -227,14 +242,12 @@
     "Themen/Link-Aggregation (LAG).md",
     "Themen/Distance Vector.md",
     "Themen/Vertikale Skalierung (scale up).md",
-    "Themen/DNS.md",
     "Themen/OSI-Schichtenmodell.md",
     "Themen/Horizontale Skalierung (scale out).md",
     "Themen/Skalierung.md",
     "Lernfeld 11b/Routing.md",
     "Themen/Blue Green Deployment.md",
     "Themen/Kommandozeile.md",
-    "Themen/Schutzziele.md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
