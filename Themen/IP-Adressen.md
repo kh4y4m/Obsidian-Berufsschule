@@ -34,6 +34,7 @@ $$
 ##### Besondere Adressen
 **Adressraum von IPv4 vs IPv6**
 IPv4 2<sup>32</sup> zu IPv6 2<sup>128</sup> = eine Vergrößerung um den Faktor 2<sup>96</sup>
-
-
 ![[IPv6_ImportantIP.svg|680]]
+
+##### SLAAC
+![[SLAAC.drawio.svg]]

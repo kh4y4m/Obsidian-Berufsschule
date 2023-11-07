@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public Cloud vs Private Cloud.md",
+                "file": "Themen/IP-Adressen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public Cloud vs Private Cloud.md"
+                "file": "Themen/IP-Adressen.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public Cloud vs Private Cloud.md",
+                "file": "Themen/IP-Adressen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public Cloud vs Private Cloud.md",
+                "file": "Themen/IP-Adressen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,6 +226,7 @@
   },
   "active": "9b2835a75e2dfbec",
   "lastOpenFiles": [
+    "Anhang/SVG/SLAAC.drawio.svg",
     "Themen/Cloud.md",
     "Public Cloud vs Private Cloud.md",
     "Themen/1 Übersicht.md",
@@ -262,7 +263,6 @@
     "Themen/Skalierung.md",
     "Themen/Vertikale Skalierung (scale up).md",
     "Anhang/SVG/Blue_Green_Deployement.drawio.svg",
-    "Themen/VLAN.md",
     "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
     "Anhang/SVG/VI_UPS_-_Line_Interactive_UPS_(German).svg",
     "Anhang/SVG/VFI_UPS_-_Online_UPS_(German).svg",
