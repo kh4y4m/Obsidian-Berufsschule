@@ -24,10 +24,10 @@ $$
 2^{32-24} -2= 2^8-2 = 256-2 = 254
 \end{align} 
 $$
+##### Dual Stack
+*... bezeichnet man den Parallelbetrieb von IPv4 und IPv6*
+Da eine Umstellung von IPv4 auf IPv6 nicht sinnvoll/möglich sinnvoll ist, wird der Dual Stack als Übergangs-Strategie verwendet. Auf langer Sicht wird IPv4 abgebaut.
 
-
-
-##### Dualstack
 
 ---
 ### IPv6

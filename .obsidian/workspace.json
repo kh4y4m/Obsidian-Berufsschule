@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -226,6 +227,8 @@
   },
   "active": "9b2835a75e2dfbec",
   "lastOpenFiles": [
+    "Anhang/SVG/Cloud.drawio",
+    "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
     "Themen/Cloud.md",
     "Public Cloud vs Private Cloud.md",
@@ -266,13 +269,11 @@
     "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
     "Anhang/SVG/VI_UPS_-_Line_Interactive_UPS_(German).svg",
     "Anhang/SVG/VFI_UPS_-_Online_UPS_(German).svg",
-    "Anhang/SVG/1280px-VFI_UPS_-_Online_UPS_(German).svg",
     "Anhang/Excel/Wellknownports.csv",
     "Anhang/Excel/lu27403zhre.tmp",
     "Untitled.canvas",
     "Anhang/SVG/IPv6_ImportantIP.drawio",
     "Anhang/SVG/DNS.drawio",
-    "Anhang/Excel/CIDR-Adressblock.ods",
     "Untitled 1.canvas"
   ]
 }
