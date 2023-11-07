@@ -76,6 +76,9 @@ Zertifikate
 >[[Klassendiagramme#^6d2107|Aggregation]]
 >[[Klassendiagramme#^1f5133|Komposition]]
 
+[[Projektmanagement]]
+
+
 ##### WiSO
 
 > Handelskalkulation

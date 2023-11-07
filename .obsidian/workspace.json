@@ -15,11 +15,24 @@
               "type": "markdown",
               "state": {
                 "file": "Themen/1 Übersicht.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "e78ff9b284f868d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/VLAN.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -52,17 +65,12 @@
             "id": "a283d2bc51c9bcee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/1 Übersicht.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diffi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,12 +116,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -140,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/1 Übersicht.md"
+                "file": "Themen/VLAN.md"
               }
             }
           },
@@ -158,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Themen/VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Themen/VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +207,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a283d2bc51c9bcee",
+  "active": "e78ff9b284f868d5",
   "lastOpenFiles": [
-    "Themen/Spanning Tree Protocol.md",
     "Themen/1 Übersicht.md",
+    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
+    "Themen/Verschlüsselung.md",
+    "Themen/Diffie-Hellman.md",
+    "Themen/USV.md",
+    "Lernfeld 11b/Firewall.md",
+    "Themen/Public Cloud vs Private Cloud.md",
+    "Themen/Private Cloud.md",
+    "Lernfeld 6/Netzpläne/Kriterien eines Projektes.md",
+    "Lernfeld 6/Netzpläne/Gantt vs. MPM.md",
+    "Lernfeld 6/Netzpläne/Definitionen.md",
+    "Lernfeld 6/Klausurvorbereitung/Themen.md",
+    "Lernfeld 6/Klausurvorbereitung/MPM Netzpläne.md",
+    "Themen/Projektmanagement.md",
+    "Themen/Spanning Tree Protocol.md",
     "Themen/Link-Aggregation (LAG).md",
     "Themen/Distance Vector.md",
     "Themen/Vertikale Skalierung (scale up).md",
@@ -214,31 +235,18 @@
     "Themen/Blue Green Deployment.md",
     "Themen/Kommandozeile.md",
     "Themen/Schutzziele.md",
-    "Themen/Cloud.md",
-    "Themen/IP-Adressen.md",
-    "Public Cloud.md",
-    "Themen/USV.md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
-    "Public Cloud vs Private Cloud.md",
-    "Private Cloud.md",
     "Anhang/SVG/PublicCloud.drawio.svg",
     "Anhang/SVG/privateCloud.drawio.svg",
     "Anhang/Excel/lu27403zhrf.tmp",
-    "Themen/SaaS.md",
-    "Lernfeld 11b/Virtual Private Network (VPN).md",
     "Anhang/SVG/Blue_Green_Deployement.drawio",
     "Anhang/SVG/tracert.drawio",
     "Anhang/SVG/Schutzziele.drawio",
-    "Themen/traceroute.md",
     "Anhang/SVG/tracert.drawio.svg",
     "Anhang/SVG/ping.drawio",
-    "Themen/ping.md",
     "Anhang/SVG/ping.drawio.svg",
-    "Themen/Diffie-Hellman.md",
-    "Themen/PaaS.md",
-    "Themen/IaaS.md",
     "Anhang/SVG/BSI_Schutzziele.svg",
     "Anhang/SVG/Blue_Green_Deployement.drawio.svg",
     "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
