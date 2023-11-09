@@ -1,0 +1,2 @@
+![[Key_Verification.drawio.svg]]
+<small>**H**:Hashwert erzeugen, **V**:Verschlüsselung des Hashwerts mit privatem Schlüssel, **E**:Entschlüsselung des Schlüssels mit öffentlichem Schlüssel, **VG**:Vergleich der beiden Hashwerte, **PS**:Privater Schlüssel, **ÖS**:Öffentlicher Schlüssel</small>

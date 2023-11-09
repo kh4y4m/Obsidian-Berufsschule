@@ -41,15 +41,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public-Key-Infrastructure (PKI).md",
+                "file": "Themen/1 Übersicht.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "929319bcd1cfcb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/1 Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec90e5ac13b34b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umrechnung von Zahlensystemen.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public-Key-Infrastructure (PKI).md"
+                "file": "Umrechnung von Zahlensystemen.md"
               }
             }
           },
@@ -146,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public-Key-Infrastructure (PKI).md",
+                "file": "Umrechnung von Zahlensystemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public-Key-Infrastructure (PKI).md",
+                "file": "Umrechnung von Zahlensystemen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,12 +214,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4845e4d5ad2a6a16",
+  "active": "ec90e5ac13b34b06",
   "lastOpenFiles": [
-    "Anhang/SVG/Public-Key-Infrastructure.svg",
     "Themen/1 Übersicht.md",
-    "Public-Key-Infrastructure (PKI).md",
+    "Umrechnung von Zahlensystemen.md",
+    "Signatur Verification.md",
+    "Anhang/SVG/Key_Verification.drawio",
+    "Anhang/SVG/Key_Verification.drawio.svg",
     "Themen/Verschlüsselung.md",
+    "Public-Key-Infrastructure (PKI).md",
+    "Anhang/SVG/Public-Key-Infrastructure.svg",
     "Themen/IP-Adressen.md",
     "Themen/VLAN.md",
     "Themen/DNS.md",
@@ -214,7 +245,6 @@
     "Themen/Link-Aggregation (LAG).md",
     "Themen/Distance Vector.md",
     "Themen/Vertikale Skalierung (scale up).md",
-    "Themen/Horizontale Skalierung (scale out).md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
@@ -230,12 +260,9 @@
     "Anhang/SVG/BSI_Schutzziele.svg",
     "Anhang/SVG/Blue_Green_Deployement.drawio.svg",
     "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
-    "Anhang/SVG/VI_UPS_-_Line_Interactive_UPS_(German).svg",
-    "Anhang/SVG/VFI_UPS_-_Online_UPS_(German).svg",
     "Anhang/Excel/Wellknownports.csv",
     "Anhang/Excel/lu27403zhre.tmp",
     "Untitled.canvas",
-    "Anhang/SVG/IPv6_ImportantIP.drawio",
     "Untitled 1.canvas"
   ]
 }

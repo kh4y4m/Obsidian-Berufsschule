@@ -40,6 +40,7 @@
 > [[Verschlüsselung#^faa9ae|Asymmetrisch]]
 > [[Verschlüsselung#^f55261|Symmetrisch]]
 > [[Diffie-Hellman]]
+> [[Signatur Verification]]
 
 [[Skalierung]]
 >[[Horizontale Skalierung (scale out)]]
@@ -79,7 +80,7 @@ Zertifikate
 
 [[Projektmanagement]]
 
-
+[[Umrechnung von Zahlensystemen]]
 ##### WiSO
 
 > Handelskalkulation
