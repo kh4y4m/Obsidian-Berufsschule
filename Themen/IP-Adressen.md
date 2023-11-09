@@ -25,13 +25,17 @@ $$
 \end{align} 
 $$
 ##### Dual Stack
-*... bezeichnet man den Parallelbetrieb von IPv4 und IPv6*
+*... bezeichnet man den Parallelbetrieb von IPv4 und IPv6 eines Hosts*
 Da eine Umstellung von IPv4 auf IPv6 nicht sinnvoll/möglich sinnvoll ist, wird der Dual Stack als Übergangs-Strategie verwendet. Auf langer Sicht wird IPv4 abgebaut.
 
 
 ---
 ### IPv6
 ##### Besondere Adressen
+
+##### Mobile IP-Adressen
+Mobile IP ist ein Netzprotokoll-Standard, der entworfen wurde, um Benutzern von mobilen Geräten wie Notebooks den Wechsel von einem Rechnernetz in ein anderes zu ermöglichen und dabei gleichzeitig eine feste IP-Adresse zu behalten. 
+
 **Adressraum von IPv4 vs IPv6**
 IPv4 2<sup>32</sup> zu IPv6 2<sup>128</sup> = eine Vergrößerung um den Faktor 2<sup>96</sup>
 ![[IPv6_ImportantIP.svg|680]]

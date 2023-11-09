@@ -36,6 +36,7 @@
 >[[Datenbank Modelle]]
 
 [Verschlüsselung](obsidian://open?vault=Berufsschule%20Vault&file=Verschl%C3%BCsselung)
+> [[Public-Key-Infrastructure (PKI)]]
 > [[Verschlüsselung#^faa9ae|Asymmetrisch]]
 > [[Verschlüsselung#^f55261|Symmetrisch]]
 > [[Diffie-Hellman]]

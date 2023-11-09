@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "e78ff9b284f868d5",
+            "id": "b63b4f2c70d44499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/VLAN.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5155429dcf188745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/DNS.md",
+                "file": "Themen/1 Übersicht.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,41 +36,20 @@
             }
           },
           {
-            "id": "68e10ff5844249ff",
+            "id": "4845e4d5ad2a6a16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/OSI-Schichtenmodell.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a283d2bc51c9bcee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "844f6d01ab449fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/IP-Adressen.md",
-                "mode": "preview",
+                "file": "Public-Key-Infrastructure (PKI).md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -161,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/IP-Adressen.md"
+                "file": "Public-Key-Infrastructure (PKI).md"
               }
             }
           },
@@ -179,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Public-Key-Infrastructure (PKI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/IP-Adressen.md",
+                "file": "Public-Key-Infrastructure (PKI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,13 +187,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "844f6d01ab449fd0",
+  "active": "4845e4d5ad2a6a16",
   "lastOpenFiles": [
+    "Anhang/SVG/Public-Key-Infrastructure.svg",
     "Themen/1 Übersicht.md",
-    "Themen/DNS.md",
-    "Themen/VLAN.md",
-    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
+    "Public-Key-Infrastructure (PKI).md",
     "Themen/Verschlüsselung.md",
+    "Themen/IP-Adressen.md",
+    "Themen/VLAN.md",
+    "Themen/DNS.md",
+    "Themen/OSI-Schichtenmodell.md",
+    "Lernfeld 11b/Virtual Private Network (VPN).md",
+    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
     "Themen/Diffie-Hellman.md",
     "Themen/USV.md",
     "Lernfeld 11b/Firewall.md",
@@ -242,12 +214,7 @@
     "Themen/Link-Aggregation (LAG).md",
     "Themen/Distance Vector.md",
     "Themen/Vertikale Skalierung (scale up).md",
-    "Themen/OSI-Schichtenmodell.md",
     "Themen/Horizontale Skalierung (scale out).md",
-    "Themen/Skalierung.md",
-    "Lernfeld 11b/Routing.md",
-    "Themen/Blue Green Deployment.md",
-    "Themen/Kommandozeile.md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
