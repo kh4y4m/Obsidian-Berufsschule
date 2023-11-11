@@ -23,39 +23,13 @@
             }
           },
           {
-            "id": "b63b4f2c70d44499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/1 Übersicht.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4845e4d5ad2a6a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/1 Übersicht.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "929319bcd1cfcb6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Themen/1 Übersicht.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -75,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umrechnung von Zahlensystemen.md"
+                "file": "Themen/1 Übersicht.md"
               }
             }
           },
@@ -172,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Umrechnung von Zahlensystemen.md",
+                "file": "Themen/1 Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Umrechnung von Zahlensystemen.md",
+                "file": "Themen/1 Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +187,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec90e5ac13b34b06",
+  "active": "929319bcd1cfcb6c",
   "lastOpenFiles": [
-    "Themen/1 Übersicht.md",
     "Umrechnung von Zahlensystemen.md",
+    "Themen/1 Übersicht.md",
     "Signatur Verification.md",
     "Anhang/SVG/Key_Verification.drawio",
     "Anhang/SVG/Key_Verification.drawio.svg",
