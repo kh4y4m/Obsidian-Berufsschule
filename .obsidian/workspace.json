@@ -23,13 +23,39 @@
             }
           },
           {
+            "id": "1fc0ec0ede92cbd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Attached Storage (NAS).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c41f6c5a1aaf48e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "929319bcd1cfcb6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/1 Übersicht.md",
-                "mode": "preview",
+                "file": "Subnetting.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -47,9 +73,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "109a602ea9635c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage Area Network (SAN).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/1 Übersicht.md"
+                "file": "Storage.md"
               }
             }
           },
@@ -146,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +226,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "929319bcd1cfcb6c",
+  "active": "1c41f6c5a1aaf48e",
   "lastOpenFiles": [
-    "Umrechnung von Zahlensystemen.md",
+    "Network Attached Storage (NAS).md",
     "Themen/1 Übersicht.md",
+    "Storage.md",
+    "Storage Area Network (SAN).md",
+    "Anhang/SVG/Storage_NAS.drawio.svg",
+    "Anhang/SVG/Storage_SAN.drawio.svg",
+    "Subnetting.md",
+    "Anhang/SVG/Subnetting.drawio",
+    "Themen/ipconfig.md",
+    "Umrechnung von Zahlensystemen.md",
     "Signatur Verification.md",
     "Anhang/SVG/Key_Verification.drawio",
     "Anhang/SVG/Key_Verification.drawio.svg",
@@ -213,11 +260,6 @@
     "Lernfeld 6/Netzpläne/Definitionen.md",
     "Lernfeld 6/Klausurvorbereitung/Themen.md",
     "Lernfeld 6/Klausurvorbereitung/MPM Netzpläne.md",
-    "Themen/Projektmanagement.md",
-    "Themen/Spanning Tree Protocol.md",
-    "Themen/Link-Aggregation (LAG).md",
-    "Themen/Distance Vector.md",
-    "Themen/Vertikale Skalierung (scale up).md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
@@ -231,10 +273,7 @@
     "Anhang/SVG/ping.drawio",
     "Anhang/SVG/ping.drawio.svg",
     "Anhang/SVG/BSI_Schutzziele.svg",
-    "Anhang/SVG/Blue_Green_Deployement.drawio.svg",
-    "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
     "Anhang/Excel/Wellknownports.csv",
-    "Anhang/Excel/lu27403zhre.tmp",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

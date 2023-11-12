@@ -1,11 +1,17 @@
 #### FiSi
 
+[[Storage]]
+> [[Storage Area Network (SAN)]]
+> [[Network Attached Storage (NAS)]]
+
 [[Schutzziele]]
 [[OSI-Schichtenmodell]]
 [[Kommandozeile]]
 >[[ping]]
 >[[traceroute]]
 >[[ipconfig]]
+
+[[Subnetting]]
 
 [[DNS]]
 >iterativ
