@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Themen/1 Übersicht.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -23,52 +23,12 @@
             }
           },
           {
-            "id": "0ee91633129407a1",
+            "id": "b4881a900d8baf53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0cab6c4a5aab119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sliding Window.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "eb679263269f98b7"
-          },
-          {
-            "id": "b63b4f2c70d44499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/1 Übersicht.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4845e4d5ad2a6a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Cloud.md",
+                "file": "Subnetting.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -77,26 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "11cf2bf2753ee6e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bc8bdda9c2612ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sliding Window.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "eb679263269f98b7"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sliding Window.md"
+                "file": "Subnetting.md"
               }
             }
           },
@@ -193,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sliding Window.md",
+                "file": "Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sliding Window.md",
+                "file": "Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,26 +174,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bc8bdda9c2612ca9",
+  "active": "b4881a900d8baf53",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Anhang/SVG/Subnetting.drawio.svg",
     "Themen/1 Übersicht.md",
+    "conflict-files-obsidian-git.md",
+    "Network Attached Storage (NAS).md",
+    "Storage Area Network (SAN).md",
+    "Sliding Window.md",
+    "Themen/Public Cloud.md",
     "Subnetting.md",
     "Storage.md",
-    "Storage Area Network (SAN).md",
-    "Network Attached Storage (NAS).md",
     "Anhang/SVG/Subnetting.drawio",
     "Anhang/SVG/Storage_SAN.drawio.svg",
     "Anhang/SVG/Storage_NAS.drawio.svg",
     "Anhang/SVG/Storage.drawio",
-    "Sliding Window.md",
     "Themen/Cloud.md",
     "Lernfeld 11b/Virtual Private Network (VPN).md",
     "Themen/Verschlüsselung.md",
     "Themen/Diffie-Hellman.md",
     "Lernfeld 11b/Backup.md",
     "Themen/Private Cloud.md",
-    "Themen/Public Cloud.md",
     "Themen/SaaS.md",
     "Themen/OSI-Schichtenmodell.md",
     "Themen/Well Known Ports.md",
@@ -265,7 +206,6 @@
     "Public-Key-Infrastructure (PKI).md",
     "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
     "Themen/ping.md",
-    "Themen/Horizontale Skalierung (scale out).md",
     "Anhang/SVG/Key_Verification.drawio",
     "Anhang/SVG/Key_Verification.drawio.svg",
     "Anhang/SVG/Public-Key-Infrastructure.svg",

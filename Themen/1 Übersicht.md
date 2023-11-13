@@ -1,14 +1,11 @@
 #### FiSi
 
-<<<<<<< HEAD
-
 [[Sliding Window]]
-=======
+
 [[Storage]]
 > [[Storage Area Network (SAN)]]
 > [[Network Attached Storage (NAS)]]
 
->>>>>>> origin/main
 [[Schutzziele]]
 [[OSI-Schichtenmodell]]
 [[Kommandozeile]]
