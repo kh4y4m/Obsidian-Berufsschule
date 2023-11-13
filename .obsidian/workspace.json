@@ -23,6 +23,20 @@
             }
           },
           {
+            "id": "c0cab6c4a5aab119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sliding Window.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "eb679263269f98b7"
+          },
+          {
             "id": "b63b4f2c70d44499",
             "type": "leaf",
             "state": {
@@ -41,41 +55,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/1 Übersicht.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "929319bcd1cfcb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/1 Übersicht.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec90e5ac13b34b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Umrechnung von Zahlensystemen.md",
+                "file": "Themen/Cloud.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "11cf2bf2753ee6e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc8bdda9c2612ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sliding Window.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "eb679263269f98b7"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umrechnung von Zahlensystemen.md"
+                "file": "Themen/1 Übersicht.md"
               }
             }
           },
@@ -172,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Umrechnung von Zahlensystemen.md",
+                "file": "Themen/1 Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Umrechnung von Zahlensystemen.md",
+                "file": "Themen/1 Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,37 +220,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec90e5ac13b34b06",
+  "active": "646504c3c14f38c3",
   "lastOpenFiles": [
+    "Sliding Window.md",
     "Themen/1 Übersicht.md",
+    "Themen/Cloud.md",
+    "Lernfeld 11b/Virtual Private Network (VPN).md",
+    "Themen/Verschlüsselung.md",
+    "Themen/Diffie-Hellman.md",
+    "Lernfeld 11b/Backup.md",
+    "Themen/Private Cloud.md",
+    "Themen/Public Cloud.md",
+    "Themen/SaaS.md",
+    "Themen/OSI-Schichtenmodell.md",
+    "Themen/Well Known Ports.md",
+    "Themen/PaaS.md",
+    "Themen/IaaS.md",
+    "Themen/Kommandozeile.md",
     "Umrechnung von Zahlensystemen.md",
+    "Themen/Blue Green Deployment.md",
+    "Public-Key-Infrastructure (PKI).md",
+    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
+    "Themen/ping.md",
+    "Themen/Horizontale Skalierung (scale out).md",
     "Signatur Verification.md",
     "Anhang/SVG/Key_Verification.drawio",
     "Anhang/SVG/Key_Verification.drawio.svg",
-    "Themen/Verschlüsselung.md",
-    "Public-Key-Infrastructure (PKI).md",
     "Anhang/SVG/Public-Key-Infrastructure.svg",
     "Themen/IP-Adressen.md",
     "Themen/VLAN.md",
     "Themen/DNS.md",
-    "Themen/OSI-Schichtenmodell.md",
-    "Lernfeld 11b/Virtual Private Network (VPN).md",
-    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
-    "Themen/Diffie-Hellman.md",
     "Themen/USV.md",
-    "Lernfeld 11b/Firewall.md",
-    "Themen/Public Cloud vs Private Cloud.md",
-    "Themen/Private Cloud.md",
-    "Lernfeld 6/Netzpläne/Kriterien eines Projektes.md",
-    "Lernfeld 6/Netzpläne/Gantt vs. MPM.md",
-    "Lernfeld 6/Netzpläne/Definitionen.md",
-    "Lernfeld 6/Klausurvorbereitung/Themen.md",
-    "Lernfeld 6/Klausurvorbereitung/MPM Netzpläne.md",
-    "Themen/Projektmanagement.md",
-    "Themen/Spanning Tree Protocol.md",
-    "Themen/Link-Aggregation (LAG).md",
-    "Themen/Distance Vector.md",
-    "Themen/Vertikale Skalierung (scale up).md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",

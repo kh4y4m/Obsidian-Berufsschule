@@ -1,5 +1,7 @@
 #### FiSi
 
+
+[[Sliding Window]]
 [[Schutzziele]]
 [[OSI-Schichtenmodell]]
 [[Kommandozeile]]
@@ -35,7 +37,7 @@
 >[[Befehle im Überblick]]
 >[[Datenbank Modelle]]
 
-[Verschlüsselung](obsidian://open?vault=Berufsschule%20Vault&file=Verschl%C3%BCsselung)
+[[Verschlüsselung]]
 > [[Public-Key-Infrastructure (PKI)]]
 > [[Verschlüsselung#^faa9ae|Asymmetrisch]]
 > [[Verschlüsselung#^f55261|Symmetrisch]]
