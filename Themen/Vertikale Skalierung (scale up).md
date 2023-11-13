@@ -1,0 +1,1 @@
+*Unter vertikaler Skalierung versteht man ein Steigern der Leistung durch das Hinzufügen von Ressourcen zu einem Knoten/Rechner des Systems. Beispiele dafür wären das Vergrößern von Speicherplatz, das Hinzufügen einer CPU, oder das Einbauen einer leistungsstärkeren Grafikkarte.*

@@ -1,0 +1,115 @@
+Port,Service,Protocol,,,,,,
+80,HTTP,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,OSI-Schicht ,,Einordnung ,TCP/IP-Referenzmodell ,Einordnung ,Protokollbeispiele ,Einheiten ,Kopplungselemente 
+,7,"Anwendung
+(Application) ","Anwendungs-
+orientiert ",Anwendung ,"Ende zu
+Ende
+(Multihop) ","DHCP
+DNS
+FTP
+HTTP
+HTTPS
+LDAP
+MQTT
+NCP
+RTP
+SMTP
+XMPP ",Daten ,"Gateway, Content-Switch, Proxy, Layer-4-7-Switch "
+,6,"Darstellung
+(Presentation) ",,,,,,
+,5,"Sitzung
+(Session) ",,,,,,
+,4,"Transport
+(Transport) ","Transport-
+orientiert ",Transport ,,"TCP
+UDP
+SCTP
+SPX ","TCP = Segmente
+UDP = Datagramme ",
+,3,"Vermittlung-/Paket
+(Network) ",,Internet ,,"ICMP
+IGMP
+IP
+IPsec
+IPX ",Pakete ,"Router, Layer-3-Switch "
+,2,"Sicherung
+(Data Link) ",,Netzzugriff ,Punkt zuPunkt ,"IEEE 802.3 Ethernet
+IEEE 802.11 WLAN
+TLAP
+FDDI
+MAC
+Token Ring
+ARCNET ",Rahmen (Frames) ,"Bridge, Layer-2-Switch, Wireless Access Point "
+,1,"Bitübertragung
+(Physical) ",,,,"1000BASE-T
+Token Ring
+ARCNET ","Bits, Symbole ","Netzwerkkabel, Repeater, Hub"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+OSI-Schicht ,,Einordnung ,TCP/IP-Referenzmodell ,Einordnung ,Protokollbeispiele ,Einheiten ,Kopplungselemente ,
+7,"Anwendung
+(Application) ","Anwendungs-
+orientiert ",Anwendung ,"Ende zu
+Ende
+(Multihop) ","DHCP
+DNS
+FTP
+HTTP
+HTTPS
+LDAP
+MQTT
+NCP
+RTP
+SMTP
+XMPP ",Daten ,"Gateway, Content-Switch, Proxy, Layer-4-7-Switch ",
+6,"Darstellung
+(Presentation) ",,,,,,,
+5,"Sitzung
+(Session) ",,,,,,,
+4,"Transport
+(Transport) ","Transport-
+orientiert ",Transport ,,"TCP
+UDP
+SCTP
+SPX ","TCP = Segmente
+UDP = Datagramme ",,
+3,"Vermittlung-/Paket
+(Network) ",,Internet ,,"ICMP
+IGMP
+IP
+IPsec
+IPX ",Pakete ,"Router, Layer-3-Switch ",
+2,"Sicherung
+(Data Link) ",,Netzzugriff ,Punkt zuPunkt ,"IEEE 802.3 Ethernet
+IEEE 802.11 WLAN
+TLAP
+FDDI
+MAC
+Token Ring
+ARCNET ",Rahmen (Frames) ,"Bridge, Layer-2-Switch, Wireless Access Point ",
+1,"Bitübertragung
+(Physical) ",,,,"1000BASE-T
+Token Ring
+ARCNET ","Bits, Symbole ","Netzwerkkabel, Repeater, Hub",
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+https://de.wikipedia.org/wiki/Vorlage:OSI-Schichtenmodell,,,,,,,,

@@ -4,42 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "2c43d6ffcbacaf6e",
+        "id": "6aabab708b3d0e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "41f19609332465f9",
+            "id": "646504c3c14f38c3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+                "file": "Themen/1 Übersicht.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
-              }
-            },
-            "group": "deafde222e46c93a"
-          }
-        ]
-      },
-      {
-        "id": "d6fadbe7dfd22e18",
-        "type": "tabs",
-        "children": [
+              },
+              "pinned": true
+            }
+          },
           {
-            "id": "53d4ca40717d61d7",
+            "id": "1fc0ec0ede92cbd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-                "mode": "preview",
+                "file": "Network Attached Storage (NAS).md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
-            },
-            "group": "deafde222e46c93a"
+            }
+          },
+          {
+            "id": "1c41f6c5a1aaf48e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "929319bcd1cfcb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subnetting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec90e5ac13b34b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umrechnung von Zahlensystemen.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "109a602ea9635c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage Area Network (SAN).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diffi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,11 +134,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -99,35 +150,6 @@
         "id": "9dfb179e1c2e159a",
         "type": "tabs",
         "children": [
-          {
-            "id": "233cfe42c4b9d16e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b9146885f739c2fd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "47383de585baa881",
             "type": "leaf",
@@ -145,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md"
+                "file": "Storage.md"
               }
             }
           },
@@ -155,6 +177,35 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "93cd05c7d79db587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Storage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2219bc3c0f3a96fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Storage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -171,29 +222,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "47383de585baa881",
+  "active": "462f53cb6236df75",
   "lastOpenFiles": [
-    "Lernfeld 8/Klausuren/Musterlösungen/SQL Biesenberger 10.07.23.md",
-    "LF11b/Routing.md",
-    "LF11b/Firewall.md",
-    "LF11b/Backup.md",
-    "Englisch/Teichis Notizen/Vokabeln.md",
-    "Englisch/Teichis Notizen/types of malware.md",
-    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM.md",
-    "Lernfeld 8/Datenabfrage mit Gruppierung CIA & WM Musterlösung.md",
-    "Berufsschule Vault/Attachments/Backupmedium.svg.md",
-    "Berufsschule Vault/Attachments/differentielles Backup vs. inkrementales Backup.svg.md",
-    "Berufsschule Vault/Attachments/DMZ.drawio.svg.md",
-    "Berufsschule%20Vault/Attachments/LF11b_DiffBackup_19-10-23.svg.md",
-    "Berufsschule%20Vault/Attachments",
-    "Berufsschule%20Vault",
-    "Berufsschule Vault/Attachments/LF11b_InkrBackup_19-10-23.svg.md",
-    "Berufsschule Vault/Attachments/LF11b_DiffBackup_19-10-23.svg.md",
-    "Berufsschule Vault/Attachments",
-    "Berufsschule Vault",
-    "PoWi/Klausur/09.05.20.md"
+    "Anhang/SVG/Storage.drawio",
+    "Network Attached Storage (NAS).md",
+    "Themen/1 Übersicht.md",
+    "Storage.md",
+    "Storage Area Network (SAN).md",
+    "Anhang/SVG/Storage_NAS.drawio.svg",
+    "Anhang/SVG/Storage_SAN.drawio.svg",
+    "Subnetting.md",
+    "Anhang/SVG/Subnetting.drawio",
+    "Themen/ipconfig.md",
+    "Umrechnung von Zahlensystemen.md",
+    "Signatur Verification.md",
+    "Anhang/SVG/Key_Verification.drawio",
+    "Anhang/SVG/Key_Verification.drawio.svg",
+    "Themen/Verschlüsselung.md",
+    "Public-Key-Infrastructure (PKI).md",
+    "Anhang/SVG/Public-Key-Infrastructure.svg",
+    "Themen/IP-Adressen.md",
+    "Themen/VLAN.md",
+    "Themen/DNS.md",
+    "Themen/OSI-Schichtenmodell.md",
+    "Lernfeld 11b/Virtual Private Network (VPN).md",
+    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
+    "Themen/Diffie-Hellman.md",
+    "Themen/USV.md",
+    "Lernfeld 11b/Firewall.md",
+    "Themen/Public Cloud vs Private Cloud.md",
+    "Themen/Private Cloud.md",
+    "Lernfeld 6/Netzpläne/Kriterien eines Projektes.md",
+    "Lernfeld 6/Netzpläne/Gantt vs. MPM.md",
+    "Lernfeld 6/Netzpläne/Definitionen.md",
+    "Lernfeld 6/Klausurvorbereitung/Themen.md",
+    "Anhang/SVG/Cloud.drawio",
+    "Anhang/SVG/SLAAC.drawio",
+    "Anhang/SVG/SLAAC.drawio.svg",
+    "Anhang/SVG/PublicCloud.drawio.svg",
+    "Anhang/SVG/privateCloud.drawio.svg",
+    "Anhang/Excel/lu27403zhrf.tmp",
+    "Anhang/SVG/Blue_Green_Deployement.drawio",
+    "Anhang/SVG/tracert.drawio",
+    "Anhang/SVG/Schutzziele.drawio",
+    "Anhang/SVG/tracert.drawio.svg",
+    "Anhang/SVG/ping.drawio",
+    "Anhang/SVG/ping.drawio.svg",
+    "Anhang/SVG/BSI_Schutzziele.svg",
+    "Anhang/Excel/Wellknownports.csv",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }

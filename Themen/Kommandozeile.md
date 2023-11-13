@@ -1,0 +1,9 @@
+![[traceroute]]
+
+---
+
+![[ping]]
+
+---
+
+![[ipconfig]]

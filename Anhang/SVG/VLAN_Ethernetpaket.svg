@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" style="font-family: 'Bitstream Vera sans','Dejavu Sans',sans-serif;font-size:14px;line-height:1;text-anchor:middle;text-align:center">
+	<defs>
+		<marker id="arrowStart" style="overflow:visible">
+			<path d="M 7,-3 L 7,3 L -1,0 L 7,-3"/>
+		</marker>
+		<marker id="arrowEnd" style="overflow:visible">
+			<path d="M -7,-3 L -7,3 L 1,0 L -7,-3"/>
+		</marker>
+	</defs>
+	<g transform="translate(10,10)">
+		<g>
+			<g style="fill:#ff9;stroke:#000">
+				<path d="M 0,55 L 30,55 L 30,30 L 3,30 L 0,33 z"/>
+				<path d="M 30,55 L 60,55 L 60,30 L 33,30 L 30,33 z"/>
+				<path d="M 60,55 L 90,55 L 90,30 L 63,30 L 60,33 z"/>
+				<path d="M 90,55 L 120,55 L 120,30 L 93,30 L 90,33 z"/>
+				<path d="M 120,55 L 150,55 L 150,30 L 123,30 L 120,33 z"/>
+				<path d="M 150,55 L 180,55 L 180,30 L 153,30 L 150,33 z"/>
+				<path d="M 180,55 L 210,55 L 210,30 L 183,30 L 180,33 z"/>
+			</g>
+			<text x="15" y="47.5">55</text>
+			<text x="45" y="47.5">55</text>
+			<text x="75" y="47.5">55</text>
+			<text x="105" y="47.5">55</text>
+			<text x="135" y="47.5">55</text>
+			<text x="165" y="47.5">55</text>
+			<text x="195" y="47.5">55</text>
+		</g>
+		<g transform="translate(210,0)">
+			<path d="M 0,55 L 30,55 L 30,30 L 3,30 L 0,33 z" style="fill:#fc9;stroke:#000"/>
+			<text x="15" y="47.5">D5</text>
+		</g>
+		<g transform="translate(240,0)">
+			<g style="fill:#cfc;stroke:#000">
+				<path d="M 0,55 L 30,55 L 30,30 L 3,30 L 0,33 z"/>
+				<path d="M 30,55 L 60,55 L 60,30 L 33,30 L 30,33 z"/>
+				<path d="M 60,55 L 90,55 L 90,30 L 63,30 L 60,33 z"/>
+				<path d="M 90,55 L 120,55 L 120,30 L 93,30 L 90,33 z"/>
+				<path d="M 120,55 L 150,55 L 150,30 L 123,30 L 120,33 z"/>
+				<path d="M 150,55 L 180,55 L 180,30 L 153,30 L 150,33 z"/>
+			</g>
+			<text x="15" y="47.5">00</text>
+			<text x="45" y="47.5">40</text>
+			<text x="75" y="47.5">F6</text>
+			<text x="105" y="47.5">11</text>
+			<text x="135" y="47.5">22</text>
+			<text x="165" y="47.5">33</text>
+		</g>
+		<g transform="translate(420,0)">
+			<g style="fill:#9cf;stroke:#000">
+				<path d="M 0,55 L 30,55 L 30,30 L 3,30 L 0,33 z"/>
+				<path d="M 30,55 L 60,55 L 60,30 L 33,30 L 30,33 z"/>
+				<path d="M 60,55 L 90,55 L 90,30 L 63,30 L 60,33 z"/>
+				<path d="M 90,55 L 120,55 L 120,30 L 93,30 L 90,33 z"/>
+				<path d="M 120,55 L 150,55 L 150,30 L 123,30 L 120,33 z"/>
+				<path d="M 150,55 L 180,55 L 180,30 L 153,30 L 150,33 z"/>
+			</g>
+			<text x="15" y="47.5">00</text>
+			<text x="45" y="47.5">40</text>
+			<text x="75" y="47.5">F6</text>
+			<text x="105" y="47.5">44</text>
+			<text x="135" y="47.5">55</text>
+			<text x="165" y="47.5">66</text>
+		</g>
+		<g transform="translate(600,0)">
+			<g style="fill:#fc0;stroke:#000">
+				<path d="M 0,55 L 30,55 L 30,30 L 3,30 L 0,33 z"/>
+				<path d="M 30,55 L 60,55 L 60,30 L 33,30 L 30,33 z"/>
+				<path d="M 60,55 L 90,55 L 90,30 L 63,30 L 60,33 z"/>
+				<path d="M 90,55 L 120,55 L 120,30 L 93,30 L 90,33 z"/>
+			</g>
+			<text x="15" y="47.5">81</text>
+			<text x="45" y="47.5">00</text>
+			<text x="75" y="47.5">55</text>
+			<text x="105" y="47.5">55</text>
+		</g>
+		<g transform="translate(720,0)">
+			<g style="fill:#f9c;stroke:#000">
+				<path d="M 0,55 L 30,55 L 30,30 L 3,30 L 0,33 z"/>
+				<path d="M 30,55 L 60,55 L 60,30 L 33,30 L 30,33 z"/>
+				<path d="M 60,55 L 210,55 L 210,30 L 63,30 L 60,33 z"/>
+			</g>
+			<text x="15" y="47.5">08</text>
+			<text x="45" y="47.5">00</text>
+		</g>
+		<g transform="translate(930,0)">
+			<path d="M 0,55 L 30,55 L 30,30 L 3,30 L 0,33 z" style="fill:#808000;stroke:#000"/>
+		</g>
+		<g transform="translate(960,0)">
+			<g style="fill:#c0c0c0;stroke:#000">
+				<path d="M 0,55 L 30,55 L 30,30 L 3,30 L 0,33 z"/>
+				<path d="M 30,55 L 60,55 L 60,30 L 33,30 L 30,33 z"/>
+				<path d="M 60,55 L 90,55 L 90,30 L 63,30 L 60,33 z"/>
+				<path d="M 90,55 L 120,55 L 120,30 L 93,30 L 90,33 z"/>
+			</g>
+			<text x="15" y="47.5">11</text>
+			<text x="45" y="47.5">22</text>
+			<text x="75" y="47.5">33</text>
+			<text x="105" y="47.5">44</text>
+		</g>
+		<g>
+			<rect width="120" height="30" x="600" y="0" style="fill:#f00;stroke:#000"/>
+			<text x="660" y="20">(VLAN-Tag)</text>
+		</g>
+		<g style="stroke:#000;stroke-width:3">
+			<path d="M 0,55 L 0,310"/>
+			<path d="M 210,55 L 210,200"/>
+			<path d="M 240,55 L 240,260"/>
+			<path d="M 420,55 L 420,200"/>
+			<path d="M 600,55 L 600,200"/>
+			<path d="M 720,55 L 720,200"/>
+			<path d="M 780,55 L 780,200"/>
+			<path d="M 930,55 L 930,200"/>
+			<path d="M 960,55 L 960,200"/>
+			<path d="M 1080,55 L 1080,310"/>
+		</g>
+		<g>
+			<g style="stroke:#000;stroke-width:2" marker-start="url(#arrowStart)" marker-end="url(#arrowEnd)">
+				<path d="M 0,300 L 1080,300"/>
+				<path d="M 240,250 L 1080,250"/>
+			</g>
+			<g style="font-size:20px">
+				<text x="540" y="290" style="font-weight:bold">Ethernet-Paket</text>
+				<text x="660" y="240"><tspan style="font-weight:bold">Ethernet-Frame:</tspan> Min. 64, Max. 1518 Byte (mit VLAN-Tag: Max. 1522 Byte)</text>
+			</g>
+		</g>
+		<g style="text-align:end;text-anchor:end">
+			<text transform="translate(20,65)rotate(270)">Präambel</text>
+			<text transform="translate(230,65)rotate(270)">SFD</text>
+			<text transform="translate(260,65)rotate(270)">Ziel-MAC-Adresse</text>
+			<text transform="translate(440,65)rotate(270)">Quell-MAC-Adresse</text>
+			<text transform="translate(620,65)rotate(270)">TPID</text>
+			<text transform="translate(680,65)rotate(270)">TCI</text>
+			<text transform="translate(740,65)rotate(270)">Typ-Feld</text>
+			<text transform="translate(800,65)rotate(270)">Daten</text>
+			<text transform="translate(820,65)rotate(270)">46(42)-1500 Byte</text>
+			<text transform="translate(950,65)rotate(270)">PAD-Füllfeld</text>
+			<text transform="translate(980,65)rotate(270)">CRC-Prüfsumme</text>
+		</g>
+	</g>
+</svg>

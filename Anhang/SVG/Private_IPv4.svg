@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="107.64905mm"
+   height="24.737009mm"
+   viewBox="0 0 107.64905 24.737009"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="Private_IPv4.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-9">
+      <path
+         d="m 274.79589,29.780466 h 129.8967 v 19.342339 h -129.8967 z"
+         id="path1-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-5">
+      <path
+         d="m 274.79589,49.160217 h 129.8967 v 20.913669 h -129.8967 z"
+         id="path2-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3-3">
+      <path
+         d="m 274.79589,70.111299 h 129.8967 v 21.549684 h -129.8967 z"
+         id="path3-6" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.1613,-110.63006)">
+    <path
+       style="fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="M 21.438466,110.63006 H 128.26591 v 7.86952 H 21.438466 Z"
+       id="path4" />
+    <path
+       style="fill:#dde8cb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 21.438466,118.49958 h 24.855793 v 16.38245 H 21.438466 Z"
+       id="path5" />
+    <path
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 46.294259,118.49958 h 81.971651 v 16.38245 H 46.294259 Z"
+       id="path6" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 21.171199,111.27348 v -0.26727 -0.25736 H 128.80044 v 0.25736 0.26727 z"
+       id="path7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 21.1613,110.74885 h 0.267267 0.267267 v 24.60832 H 21.428567 21.1613 Z"
+       id="path8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 46.304158,110.74885 h 0.267266 0.267267 v 24.60832 h -0.267267 -0.267266 z"
+       id="path9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 93.966699,110.74885 h 0.267266 0.267267 v 24.60832 h -0.267267 -0.267266 z"
+       id="path10" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 128.27581,110.74885 h 0.26727 0.26727 v 24.60832 h -0.26727 -0.26727 z"
+       id="path11" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 128.27581,110.74885 h 0.26727 0.26727 v 24.60832 h -0.26727 -0.26727 z"
+       id="path12" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 21.171199,119.1331 v -0.26727 -0.25737 H 128.80044 v 0.25737 0.26727 z"
+       id="path13" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 21.171199,124.10228 v -0.26727 -0.25737 H 128.80044 v 0.25737 0.26727 z"
+       id="path14" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 21.171199,129.60599 v -0.26727 -0.25737 H 128.80044 v 0.25737 0.26727 z"
+       id="path15" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 21.171199,135.36707 v -0.26727 -0.25737 H 128.80044 v 0.25737 0.26727 z"
+       id="path16" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 21.171199,135.36707 v -0.26727 -0.25737 H 128.80044 v 0.25737 0.26727 z"
+       id="path17" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:3.14193px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.816193"
+       y="115.86652"
+       id="text18"><tspan
+         sodipodi:role="line"
+         x="58.816193"
+         y="115.86652"
+         id="tspan18"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:3.14193px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan17">Adressbereich </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:3.14193px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="96.134529"
+       y="115.86652"
+       id="text20"><tspan
+         sodipodi:role="line"
+         x="96.134529"
+         y="115.86652"
+         id="tspan20"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:3.14193px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan19">Anzahl IP-Adressen </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:2.79466px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.308434"
+       y="122.37"
+       id="text22"><tspan
+         sodipodi:role="line"
+         x="27.308434"
+         y="122.37"
+         id="tspan22"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:2.79466px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan21">10.0.0.0/8 </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.79466px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.441162"
+       y="122.37"
+       id="text24"><tspan
+         sodipodi:role="line"
+         x="53.441162"
+         y="122.37"
+         id="tspan24"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.79466px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan23">10.0.0.0 – 10.255.255.255 </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:2.79466px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.952526"
+       y="127.70543"
+       id="text26"><tspan
+         sodipodi:role="line"
+         x="24.952526"
+         y="127.70543"
+         id="tspan26"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:2.79466px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan25">172.16.0.0/12 </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.79466px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="51.86726"
+       y="127.70543"
+       id="text28"><tspan
+         sodipodi:role="line"
+         x="51.86726"
+         y="127.70543"
+         id="tspan28"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.79466px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan27">172.16.0.0 – 172.31.255.255 </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:2.79466px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.170525"
+       y="133.32794"
+       id="text30"><tspan
+         sodipodi:role="line"
+         x="24.170525"
+         y="133.32794"
+         id="tspan30"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:2.79466px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan29">192.168.0.0/16 </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.79466px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.303257"
+       y="133.32794"
+       id="text32"><tspan
+         sodipodi:role="line"
+         x="50.303257"
+         y="133.32794"
+         id="tspan32"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.79466px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan31">192.168.0.0 – 192.168.255.255 </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:3.14193px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.535654"
+       y="114.04514"
+       id="text34"><tspan
+         sodipodi:role="line"
+         x="29.535654"
+         y="114.04514"
+         id="tspan34"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:3.14193px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan33">CIDR-</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:3.14193px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.031942"
+       y="117.70768"
+       id="text36"><tspan
+         sodipodi:role="line"
+         x="24.031942"
+         y="117.70768"
+         id="tspan36"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:3.14193px;font-family:'Liberation Sans';fill:#000000;stroke-width:0.264583"
+           id="tspan35">Adressblock </tspan></tspan></text>
+    <g
+       clip-path="url(#clipEmfPath1-9)"
+       id="g38"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(282.20359,44.932588)"
+         x="0"
+         y="0"
+         id="text38"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan38"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan37">2</tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath1-9)"
+       id="g40"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.4375px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(288.1522,39.881881)"
+         x="0"
+         y="0"
+         id="text40"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan40"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.4375px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan39">24</tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath1-9)"
+       id="g42"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(298.06655,44.932588)"
+         x="0"
+         y="0"
+         id="text42"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan42"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan41"> = 16.777.216 </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath2-5)"
+       id="g44"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(282.20359,65.098004)"
+         x="0"
+         y="0"
+         id="text44"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan44"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan43">2</tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath2-5)"
+       id="g46"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.4375px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(288.1522,60.047297)"
+         x="0"
+         y="0"
+         id="text46"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan46"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.4375px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan45">20</tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath2-5)"
+       id="g48"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(298.06655,65.098004)"
+         x="0"
+         y="0"
+         id="text48"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan48"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan47">= 1.048.576 </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath3-3)"
+       id="g50"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(282.20359,86.348388)"
+         x="0"
+         y="0"
+         id="text50"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan50"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan49">2</tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath3-3)"
+       id="g52"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.4375px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(288.1522,81.29768)"
+         x="0"
+         y="0"
+         id="text52"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan52"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.4375px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan51">16</tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath3-3)"
+       id="g54"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:11.875px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(298.06655,86.348388)"
+         x="0"
+         y="0"
+         id="text54"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan54"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:11.875px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan53"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath3-3)"
+       id="g56"
+       transform="matrix(0.26458333,0,0,0.26458333,21.428567,110.87753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;line-height:125%;font-family:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(301.02215,86.348388)"
+         x="0"
+         y="0"
+         id="text56"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan56"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:10.5625px;font-family:'Liberation Sans';fill:#000000"
+             id="tspan55">= 65.536 </tspan></tspan></text>
+    </g>
+  </g>
+</svg>
