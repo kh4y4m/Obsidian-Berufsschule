@@ -34,9 +34,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c6b822d30db430a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diffi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,12 +89,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -114,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subnetting.md"
+                "file": "Themen/1 Übersicht.md"
               }
             }
           },
@@ -132,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subnetting.md",
+                "file": "Themen/1 Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subnetting.md",
+                "file": "Themen/1 Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +181,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b4881a900d8baf53",
+  "active": "646504c3c14f38c3",
   "lastOpenFiles": [
+    "Subnetting.md",
     "Anhang/SVG/Subnetting.drawio.svg",
     "Themen/1 Übersicht.md",
     "conflict-files-obsidian-git.md",
@@ -182,7 +191,6 @@
     "Storage Area Network (SAN).md",
     "Sliding Window.md",
     "Themen/Public Cloud.md",
-    "Subnetting.md",
     "Storage.md",
     "Anhang/SVG/Subnetting.drawio",
     "Anhang/SVG/Storage_SAN.drawio.svg",
@@ -220,7 +228,6 @@
     "Anhang/SVG/tracert.drawio.svg",
     "Anhang/SVG/ping.drawio",
     "Anhang/SVG/ping.drawio.svg",
-    "Anhang/SVG/BSI_Schutzziele.svg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
