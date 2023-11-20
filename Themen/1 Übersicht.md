@@ -41,6 +41,8 @@
 > [[Backup#**differentielles Backup vs. inkrementales Backup**|differentielles Backup vs. inkrementales Backup]]
 > [[Backup#**Großvater-Vater-Sohn (Generationenprinzip)**|Generationenprinzip]]
 > [[Backup#**Backupmedien**|Backupmedien]]
+>  [[Daten-Deduplizierung]]
+>  [[Daten-Replikation]]
 
 [[SQL]]
 >[[Befehle im Überblick]]

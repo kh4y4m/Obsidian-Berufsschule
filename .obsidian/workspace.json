@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ac2f13700bac484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,17 +238,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "462f53cb6236df75",
+  "active": "646504c3c14f38c3",
   "lastOpenFiles": [
+    "Domain.md",
+    "Themen/1 Übersicht.md",
     "WPA.md",
     "Sliding Window.md",
-    "Domain.md",
     "Anhang/SVG/Subnetting.drawio.svg",
     "Anhang/SVG/Domain.drawio.svg",
     "Anhang/SVG/Domain.drawio",
     "Anhang/SVG/Storage.drawio",
     "Network Attached Storage (NAS).md",
-    "Themen/1 Übersicht.md",
     "Storage.md",
     "Storage Area Network (SAN).md",
     "Anhang/SVG/Storage_NAS.drawio.svg",
