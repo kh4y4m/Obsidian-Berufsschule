@@ -23,24 +23,16 @@
             }
           },
           {
-            "id": "b4881a900d8baf53",
+            "id": "dad2bd52495834e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subnetting.md",
-                "mode": "preview",
+                "file": "WPA.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8c6b822d30db430a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -167,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,36 +174,40 @@
   },
   "active": "646504c3c14f38c3",
   "lastOpenFiles": [
-    "Subnetting.md",
-    "Anhang/SVG/Subnetting.drawio.svg",
+    "WPA.md",
     "Themen/1 Übersicht.md",
-    "conflict-files-obsidian-git.md",
+    "Themen/SQL.md",
+    "Lernfeld 9/Virtual Private Network.md",
+    "Themen/VLAN.md",
+    "Public-Key-Infrastructure (PKI).md",
+    "Themen/Projektmanagement.md",
+    "Domain.md",
+    "Themen/ping.md",
     "Network Attached Storage (NAS).md",
+    "Lernfeld 11b/Virtual Private Network (VPN).md",
+    "Anhang/LF11b/Routing.drawio.svg",
+    "Lernfeld 11b/Routing.md",
+    "Themen/ipconfig.md",
     "Storage Area Network (SAN).md",
+    "Themen/Kommandozeile.md",
+    "Themen/Verschlüsselung.md",
+    "Themen/Hypervisor.md",
+    "Anhang/SVG/Domain.drawio.svg",
+    "Anhang/SVG/Domain.drawio",
+    "Themen/USV.md",
+    "Subnetting.md",
+    "Themen/Cloud.md",
+    "Storage.md",
+    "Anhang/SVG/Subnetting.drawio.svg",
+    "conflict-files-obsidian-git.md",
     "Sliding Window.md",
     "Themen/Public Cloud.md",
-    "Storage.md",
     "Anhang/SVG/Subnetting.drawio",
     "Anhang/SVG/Storage_SAN.drawio.svg",
     "Anhang/SVG/Storage_NAS.drawio.svg",
     "Anhang/SVG/Storage.drawio",
-    "Themen/Cloud.md",
-    "Lernfeld 11b/Virtual Private Network (VPN).md",
-    "Themen/Verschlüsselung.md",
     "Themen/Diffie-Hellman.md",
     "Lernfeld 11b/Backup.md",
-    "Themen/Private Cloud.md",
-    "Themen/SaaS.md",
-    "Themen/OSI-Schichtenmodell.md",
-    "Themen/Well Known Ports.md",
-    "Themen/PaaS.md",
-    "Themen/IaaS.md",
-    "Themen/Kommandozeile.md",
-    "Umrechnung von Zahlensystemen.md",
-    "Themen/Blue Green Deployment.md",
-    "Public-Key-Infrastructure (PKI).md",
-    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
-    "Themen/ping.md",
     "Anhang/SVG/Key_Verification.drawio",
     "Anhang/SVG/Key_Verification.drawio.svg",
     "Anhang/SVG/Public-Key-Infrastructure.svg",
@@ -225,9 +220,6 @@
     "Anhang/SVG/Blue_Green_Deployement.drawio",
     "Anhang/SVG/tracert.drawio",
     "Anhang/SVG/Schutzziele.drawio",
-    "Anhang/SVG/tracert.drawio.svg",
-    "Anhang/SVG/ping.drawio",
-    "Anhang/SVG/ping.drawio.svg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

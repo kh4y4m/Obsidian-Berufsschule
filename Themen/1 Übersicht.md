@@ -20,6 +20,8 @@
 >iterativ
 >rekursiv
 
+[[Domain]]
+
 [[Hypervisor]]
 
 [USV](USV)
@@ -43,6 +45,7 @@
 [[SQL]]
 >[[Befehle im Überblick]]
 >[[Datenbank Modelle]]
+>[[Normalformen]]
 
 [[Verschlüsselung]]
 > [[Public-Key-Infrastructure (PKI)]]
@@ -50,6 +53,7 @@
 > [[Verschlüsselung#^f55261|Symmetrisch]]
 > [[Diffie-Hellman]]
 > [[Signatur Verification]]
+> [[WPA]]
 
 [[Skalierung]]
 >[[Horizontale Skalierung (scale out)]]
@@ -90,6 +94,9 @@ Zertifikate
 [[Projektmanagement]]
 
 [[Umrechnung von Zahlensystemen]]
+
+#### Programmieren
+
 ##### WiSO
 
 > Handelskalkulation
