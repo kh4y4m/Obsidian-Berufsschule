@@ -23,72 +23,19 @@
             }
           },
           {
-            "id": "1fc0ec0ede92cbd4",
+            "id": "dad2bd52495834e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Attached Storage (NAS).md",
+                "file": "WPA.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c41f6c5a1aaf48e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storage.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "929319bcd1cfcb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subnetting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec90e5ac13b34b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Umrechnung von Zahlensystemen.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "109a602ea9635c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storage Area Network (SAN).md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diffi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,40 +172,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "462f53cb6236df75",
+  "active": "646504c3c14f38c3",
   "lastOpenFiles": [
-    "Anhang/SVG/Storage.drawio",
-    "Network Attached Storage (NAS).md",
+    "WPA.md",
     "Themen/1 Übersicht.md",
-    "Storage.md",
-    "Storage Area Network (SAN).md",
-    "Anhang/SVG/Storage_NAS.drawio.svg",
-    "Anhang/SVG/Storage_SAN.drawio.svg",
-    "Subnetting.md",
-    "Anhang/SVG/Subnetting.drawio",
+    "Themen/SQL.md",
+    "Lernfeld 9/Virtual Private Network.md",
+    "Themen/VLAN.md",
+    "Public-Key-Infrastructure (PKI).md",
+    "Themen/Projektmanagement.md",
+    "Domain.md",
+    "Themen/ping.md",
+    "Network Attached Storage (NAS).md",
+    "Lernfeld 11b/Virtual Private Network (VPN).md",
+    "Anhang/LF11b/Routing.drawio.svg",
+    "Lernfeld 11b/Routing.md",
     "Themen/ipconfig.md",
-    "Umrechnung von Zahlensystemen.md",
-    "Signatur Verification.md",
+    "Storage Area Network (SAN).md",
+    "Themen/Kommandozeile.md",
+    "Themen/Verschlüsselung.md",
+    "Themen/Hypervisor.md",
+    "Anhang/SVG/Domain.drawio.svg",
+    "Anhang/SVG/Domain.drawio",
+    "Themen/USV.md",
+    "Subnetting.md",
+    "Themen/Cloud.md",
+    "Storage.md",
+    "Anhang/SVG/Subnetting.drawio.svg",
+    "conflict-files-obsidian-git.md",
+    "Sliding Window.md",
+    "Themen/Public Cloud.md",
+    "Anhang/SVG/Subnetting.drawio",
+    "Anhang/SVG/Storage_SAN.drawio.svg",
+    "Anhang/SVG/Storage_NAS.drawio.svg",
+    "Anhang/SVG/Storage.drawio",
+    "Themen/Diffie-Hellman.md",
+    "Lernfeld 11b/Backup.md",
     "Anhang/SVG/Key_Verification.drawio",
     "Anhang/SVG/Key_Verification.drawio.svg",
-    "Themen/Verschlüsselung.md",
-    "Public-Key-Infrastructure (PKI).md",
     "Anhang/SVG/Public-Key-Infrastructure.svg",
-    "Themen/IP-Adressen.md",
-    "Themen/VLAN.md",
-    "Themen/DNS.md",
-    "Themen/OSI-Schichtenmodell.md",
-    "Lernfeld 11b/Virtual Private Network (VPN).md",
-    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
-    "Themen/Diffie-Hellman.md",
-    "Themen/USV.md",
-    "Lernfeld 11b/Firewall.md",
-    "Themen/Public Cloud vs Private Cloud.md",
-    "Themen/Private Cloud.md",
-    "Lernfeld 6/Netzpläne/Kriterien eines Projektes.md",
-    "Lernfeld 6/Netzpläne/Gantt vs. MPM.md",
-    "Lernfeld 6/Netzpläne/Definitionen.md",
-    "Lernfeld 6/Klausurvorbereitung/Themen.md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
@@ -269,11 +220,6 @@
     "Anhang/SVG/Blue_Green_Deployement.drawio",
     "Anhang/SVG/tracert.drawio",
     "Anhang/SVG/Schutzziele.drawio",
-    "Anhang/SVG/tracert.drawio.svg",
-    "Anhang/SVG/ping.drawio",
-    "Anhang/SVG/ping.drawio.svg",
-    "Anhang/SVG/BSI_Schutzziele.svg",
-    "Anhang/Excel/Wellknownports.csv",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

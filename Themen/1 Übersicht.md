@@ -1,5 +1,7 @@
 #### FiSi
 
+[[Sliding Window]]
+
 [[Storage]]
 > [[Storage Area Network (SAN)]]
 > [[Network Attached Storage (NAS)]]
@@ -14,8 +16,11 @@
 [[Subnetting]]
 
 [[DNS]]
+>conditional Forwarding
 >iterativ
 >rekursiv
+
+[[Domain]]
 
 [[Hypervisor]]
 
@@ -40,13 +45,15 @@
 [[SQL]]
 >[[Befehle im Überblick]]
 >[[Datenbank Modelle]]
+>[[Normalformen]]
 
-[Verschlüsselung](obsidian://open?vault=Berufsschule%20Vault&file=Verschl%C3%BCsselung)
+[[Verschlüsselung]]
 > [[Public-Key-Infrastructure (PKI)]]
 > [[Verschlüsselung#^faa9ae|Asymmetrisch]]
 > [[Verschlüsselung#^f55261|Symmetrisch]]
 > [[Diffie-Hellman]]
 > [[Signatur Verification]]
+> [[WPA]]
 
 [[Skalierung]]
 >[[Horizontale Skalierung (scale out)]]
@@ -87,6 +94,9 @@ Zertifikate
 [[Projektmanagement]]
 
 [[Umrechnung von Zahlensystemen]]
+
+#### Programmieren
+
 ##### WiSO
 
 > Handelskalkulation
