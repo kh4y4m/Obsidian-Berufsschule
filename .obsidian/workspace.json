@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storage.md"
+                "file": "Themen/1 Übersicht.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storage.md",
+                "file": "Themen/1 Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storage.md",
+                "file": "Themen/1 Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
