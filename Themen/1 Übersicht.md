@@ -5,6 +5,7 @@
 [[Storage]]
 > [[Storage Area Network (SAN)]]
 > [[Network Attached Storage (NAS)]]
+> [[Network File System (NFS)]]
 
 [[Schutzziele]]
 [[OSI-Schichtenmodell]]
@@ -41,8 +42,9 @@
 > [[Backup#**differentielles Backup vs. inkrementales Backup**|differentielles Backup vs. inkrementales Backup]]
 > [[Backup#**Großvater-Vater-Sohn (Generationenprinzip)**|Generationenprinzip]]
 > [[Backup#**Backupmedien**|Backupmedien]]
->  [[Daten-Deduplizierung]]
->  [[Daten-Replikation]]
+> [[Daten-Deduplizierung]]
+> [[Daten-Replikation]]
+
 
 [[SQL]]
 >[[Befehle im Überblick]]
@@ -76,8 +78,8 @@
 >[[Virtual Private Network (VPN)]]
 >> [[Virtual Private Network (VPN)#<p style="text-align center;">Transport- und Tunnelmodus (HA)</p>| HA]]
 >> [[Virtual Private Network (VPN)#<p style="text-align center;">Security Association (SA)</p>|SA]]
-> > [[IKE (Internet-Key-Exchange-Protokoll)]]
-> > IPsec
+>> [[IKE (Internet-Key-Exchange-Protokoll)]]
+>> IPsec
 
 > [[VLAN]]
 > IEEE 802.1X
@@ -95,6 +97,12 @@ Zertifikate
 >[[Klassendiagramme#^1f5133|Komposition]]
 
 [[Projektmanagement]]
+
+[[Schichtenarchitektur]]
+>[[2-Tier]]
+>[[3-Tier]]
+>[[Multi-Tier]]
+
 
 [[Umrechnung von Zahlensystemen]]
 

@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "32dc70cba77a2b79",
+            "id": "9f4ea83b791e9ccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Address Resolution Protocol (ARP).md",
+                "file": "3-Tier.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,78 +36,13 @@
             }
           },
           {
-            "id": "1fc0ec0ede92cbd4",
+            "id": "16fc5c403e7792d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Attached Storage (NAS).md",
+                "file": "2-Tier.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c41f6c5a1aaf48e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storage.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "929319bcd1cfcb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subnetting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec90e5ac13b34b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Umrechnung von Zahlensystemen.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "109a602ea9635c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storage Area Network (SAN).md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ac2f13700bac484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -193,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Address Resolution Protocol (ARP).md"
+                "file": "3-Tier.md"
               }
             }
           },
@@ -211,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Address Resolution Protocol (ARP).md",
+                "file": "3-Tier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Address Resolution Protocol (ARP).md",
+                "file": "3-Tier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,31 +187,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "32dc70cba77a2b79",
+  "active": "9f4ea83b791e9ccd",
   "lastOpenFiles": [
-    "Anhang/SVG/ARP Table.png",
     "Themen/1 Übersicht.md",
+    "3-Tier.md",
+    "2-Tier.md",
+    "Network File System (NFS).md",
     "Address Resolution Protocol (ARP).md",
+    "Network Attached Storage (NAS).md",
+    "Storage.md",
+    "Umrechnung von Zahlensystemen.md",
+    "Storage Area Network (SAN).md",
     "Domain.md",
+    "Daten-Deduplizierung.md",
+    "Themen/Verschlüsselung.md",
+    "Daten-Replikation.md",
+    "Themen/Vertikale Skalierung (scale up).md",
+    "Themen/Link-Aggregation (LAG).md",
+    "Subnetting.md",
+    "Anhang/SVG/ARP Table.png",
     "WPA.md",
     "Sliding Window.md",
     "Anhang/SVG/Subnetting.drawio.svg",
     "Anhang/SVG/Domain.drawio.svg",
     "Anhang/SVG/Domain.drawio",
     "Anhang/SVG/Storage.drawio",
-    "Network Attached Storage (NAS).md",
-    "Storage.md",
-    "Storage Area Network (SAN).md",
     "Anhang/SVG/Storage_NAS.drawio.svg",
     "Anhang/SVG/Storage_SAN.drawio.svg",
-    "Subnetting.md",
     "Anhang/SVG/Subnetting.drawio",
     "Themen/ipconfig.md",
-    "Umrechnung von Zahlensystemen.md",
     "Signatur Verification.md",
     "Anhang/SVG/Key_Verification.drawio",
     "Anhang/SVG/Key_Verification.drawio.svg",
-    "Themen/Verschlüsselung.md",
     "Public-Key-Infrastructure (PKI).md",
     "Anhang/SVG/Public-Key-Infrastructure.svg",
     "Themen/IP-Adressen.md",
@@ -284,12 +226,6 @@
     "Themen/DNS.md",
     "Themen/OSI-Schichtenmodell.md",
     "Lernfeld 11b/Virtual Private Network (VPN).md",
-    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
-    "Themen/Diffie-Hellman.md",
-    "Themen/USV.md",
-    "Lernfeld 11b/Firewall.md",
-    "Themen/Public Cloud vs Private Cloud.md",
-    "Themen/Private Cloud.md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
@@ -299,7 +235,6 @@
     "Anhang/SVG/Blue_Green_Deployement.drawio",
     "Anhang/SVG/tracert.drawio",
     "Anhang/SVG/Schutzziele.drawio",
-    "Anhang/SVG/tracert.drawio.svg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

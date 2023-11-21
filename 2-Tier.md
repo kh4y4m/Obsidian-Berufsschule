@@ -1,0 +1,1 @@
+*... besteht aus zwei, da nur die höhere auf die niedrigere Schicht zugreifen darf, ist die niedrigere Schicht ein Serverder höheren*

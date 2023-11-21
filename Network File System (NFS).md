@@ -1,0 +1,1 @@
+*...  ist ein Protokoll, das den **Zugriff auf Dateien über ein Netzwerk ermöglicht.** Dabei werden die Dateien nicht wie z. B. bei FTP übertragen, sondern die Benutzer können auf Dateien, die sich auf einem entfernten Rechner befinden, so zugreifen, als ob sie auf ihrer lokalen Festplatte abgespeichert wären.*
