@@ -102,6 +102,7 @@ Zertifikate
 >[[2-Tier]]
 >[[3-Tier]]
 >[[Multi-Tier]]
+>[[Schichtenmodell bei Betriebssystemen]]
 
 
 [[Umrechnung von Zahlensystemen]]

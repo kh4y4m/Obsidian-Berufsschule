@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "870fc1ceba6bec4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schichtenmodell bei Betriebssystemen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9f4ea83b791e9ccd",
             "type": "leaf",
             "state": {
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Tier.md"
+                "file": "Schichtenmodell bei Betriebssystemen.md"
               }
             }
           },
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Tier.md",
+                "file": "Schichtenmodell bei Betriebssystemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Tier.md",
+                "file": "Schichtenmodell bei Betriebssystemen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +200,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9f4ea83b791e9ccd",
+  "active": "870fc1ceba6bec4f",
   "lastOpenFiles": [
+    "Anhang/SVG/Schalenmodell.svg",
     "Themen/1 Übersicht.md",
+    "Schichtenmodell bei Betriebssystemen.md",
     "3-Tier.md",
     "2-Tier.md",
     "Network File System (NFS).md",
@@ -224,8 +239,6 @@
     "Themen/IP-Adressen.md",
     "Themen/VLAN.md",
     "Themen/DNS.md",
-    "Themen/OSI-Schichtenmodell.md",
-    "Lernfeld 11b/Virtual Private Network (VPN).md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
