@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55935a7d9ec9e2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schichtenarchitektur.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schichtenmodell bei Betriebssystemen.md"
+                "file": "Themen/1 Übersicht.md"
               }
             }
           },
@@ -159,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schichtenmodell bei Betriebssystemen.md",
+                "file": "Themen/1 Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schichtenmodell bei Betriebssystemen.md",
+                "file": "Themen/1 Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,11 +212,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "870fc1ceba6bec4f",
+  "active": "646504c3c14f38c3",
   "lastOpenFiles": [
-    "Anhang/SVG/Schalenmodell.svg",
+    "Schichtenarchitektur.md",
     "Themen/1 Übersicht.md",
     "Schichtenmodell bei Betriebssystemen.md",
+    "Anhang/SVG/Schichtenmodell.drawio",
+    "Anhang/SVG/Schalenmodell.svg",
     "3-Tier.md",
     "2-Tier.md",
     "Network File System (NFS).md",
@@ -243,11 +257,9 @@
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
     "Anhang/SVG/PublicCloud.drawio.svg",
-    "Anhang/SVG/privateCloud.drawio.svg",
     "Anhang/Excel/lu27403zhrf.tmp",
     "Anhang/SVG/Blue_Green_Deployement.drawio",
     "Anhang/SVG/tracert.drawio",
-    "Anhang/SVG/Schutzziele.drawio",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
