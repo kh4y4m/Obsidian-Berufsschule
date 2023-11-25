@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schichtenmodell bei Betriebssystemen.md",
+                "file": "Themen/Schichtenmodell bei Betriebssystemen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Tier.md",
+                "file": "Themen/3-Tier.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Tier.md",
+                "file": "Themen/2-Tier.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schichtenarchitektur.md",
+                "file": "Themen/Schichtenarchitektur.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,8 +86,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b04152069a038a18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Projektmanagement.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -133,13 +147,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/1 Übersicht.md"
+                "file": "Themen/Projektmanagement.md"
               }
             }
           },
@@ -184,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Themen/Projektmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/1 Übersicht.md",
+                "file": "Themen/Projektmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,32 +237,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "646504c3c14f38c3",
+  "active": "b04152069a038a18",
   "lastOpenFiles": [
-    "Lernfeld 11b/Backup.md",
+    "Themen/Public Cloud.md",
+    "Themen/Schutzziele.md",
     "Themen/1 Übersicht.md",
-    "Schichtenarchitektur.md",
-    "Schichtenmodell bei Betriebssystemen.md",
+    "Lernfeld 11b/Backup.md",
+    "Themen/Schichtenarchitektur.md",
+    "Themen/Schichtenmodell bei Betriebssystemen.md",
     "Anhang/SVG/Schichtenmodell.drawio",
     "Anhang/SVG/Schalenmodell.svg",
-    "3-Tier.md",
-    "2-Tier.md",
-    "Network File System (NFS).md",
-    "Address Resolution Protocol (ARP).md",
-    "Network Attached Storage (NAS).md",
-    "Storage.md",
-    "Umrechnung von Zahlensystemen.md",
-    "Storage Area Network (SAN).md",
-    "Domain.md",
-    "Daten-Deduplizierung.md",
+    "Themen/3-Tier.md",
+    "Themen/2-Tier.md",
+    "Themen/Network File System (NFS).md",
+    "Themen/Address Resolution Protocol (ARP).md",
+    "Themen/Network Attached Storage (NAS).md",
+    "Themen/Storage.md",
+    "Themen/Umrechnung von Zahlensystemen.md",
+    "Themen/Storage Area Network (SAN).md",
+    "Themen/Domain.md",
+    "Themen/Daten-Deduplizierung.md",
     "Themen/Verschlüsselung.md",
-    "Daten-Replikation.md",
+    "Themen/Daten-Replikation.md",
     "Themen/Vertikale Skalierung (scale up).md",
     "Themen/Link-Aggregation (LAG).md",
-    "Subnetting.md",
+    "Themen/Subnetting.md",
     "Anhang/SVG/ARP Table.png",
-    "WPA.md",
-    "Sliding Window.md",
+    "Themen/WPA.md",
+    "Themen/Sliding Window.md",
     "Anhang/SVG/Subnetting.drawio.svg",
     "Anhang/SVG/Domain.drawio.svg",
     "Anhang/SVG/Domain.drawio",
@@ -259,13 +273,11 @@
     "Anhang/SVG/Storage_SAN.drawio.svg",
     "Anhang/SVG/Subnetting.drawio",
     "Themen/ipconfig.md",
-    "Signatur Verification.md",
+    "Themen/Signatur Verification.md",
     "Anhang/SVG/Key_Verification.drawio",
     "Anhang/SVG/Key_Verification.drawio.svg",
-    "Public-Key-Infrastructure (PKI).md",
+    "Themen/Public-Key-Infrastructure (PKI).md",
     "Anhang/SVG/Public-Key-Infrastructure.svg",
-    "Themen/IP-Adressen.md",
-    "Themen/VLAN.md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
