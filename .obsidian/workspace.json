@@ -73,6 +73,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af6c662b91310b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 11b/Backup.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -214,8 +227,9 @@
   },
   "active": "646504c3c14f38c3",
   "lastOpenFiles": [
-    "Schichtenarchitektur.md",
+    "Lernfeld 11b/Backup.md",
     "Themen/1 Übersicht.md",
+    "Schichtenarchitektur.md",
     "Schichtenmodell bei Betriebssystemen.md",
     "Anhang/SVG/Schichtenmodell.drawio",
     "Anhang/SVG/Schalenmodell.svg",
@@ -252,7 +266,6 @@
     "Anhang/SVG/Public-Key-Infrastructure.svg",
     "Themen/IP-Adressen.md",
     "Themen/VLAN.md",
-    "Themen/DNS.md",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
     "Anhang/SVG/SLAAC.drawio.svg",
