@@ -10,64 +10,98 @@
           {
             "id": "646504c3c14f38c3",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/1 Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c98c271adede7aee",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Lernfeld 10/Klausur 07-12-23.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08c90f70ce0a1e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/VLAN.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87a3f572ab44df3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Hypervisor.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "68492c36af0265b4",
+            "id": "2a6aa894f5f92990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/Verschlüsselung.md",
+                "file": "Unterschiede Programmiersprachen.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "b19953ebb5d2addd",
+            "id": "3372fb0974fb37b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
+                "file": "Compilersprache.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c8acd482cf34f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skriptsprachen.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ce5eaf835ba4e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RegEx.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b95cb89e201a7373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/IP-Adressen.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vlan",
+                "query": "diffi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -127,35 +162,6 @@
         "id": "9dfb179e1c2e159a",
         "type": "tabs",
         "children": [
-          {
-            "id": "233cfe42c4b9d16e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Lernfeld 10/Klausur 07-12-23.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b9146885f739c2fd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Lernfeld 10/Klausur 07-12-23.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "47383de585baa881",
             "type": "leaf",
@@ -173,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 10/Klausur 07-12-23.md"
+                "file": "Unterschiede Programmiersprachen.md"
               }
             }
           },
@@ -184,9 +190,38 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "93cd05c7d79db587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unterschiede Programmiersprachen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2219bc3c0f3a96fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unterschiede Programmiersprachen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,54 +238,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "646504c3c14f38c3",
+  "active": "2a6aa894f5f92990",
   "lastOpenFiles": [
-    "Themen/1 Übersicht.md",
-    "Themen/VLAN.md",
-    "Themen/Hypervisor.md",
     "Lernfeld 10/Klausur 07-12-23.md",
-    "Themen/Domain.md",
-    "Themen/OSI-Schichtenmodell.md",
-    "Themen/USV.md",
-    "Themen/traceroute.md",
-    "Themen/ping.md",
-    "Themen/ipconfig.md",
+    "Unterschiede Programmiersprachen.md",
+    "Themen/1 Übersicht.md",
+    "Skriptsprachen.md",
+    "Compilersprache.md",
+    "Anhang/SVG/Programmiersprache_Compiler.drawio.svg",
+    "Anhang/SVG/Programmiersprache_Interpreter.drawio.svg",
+    "RegEx.md",
+    "Anhang/SVG/davechild_regular-expressions.pdf",
     "Themen/Well Known Ports.md",
-    "Themen/WPA.md",
+    "Themen/IP-Adressen.md",
+    "Themen/Klassendiagramme.md",
+    "Themen/ipconfig.md",
+    "Themen/Kommandozeile.md",
+    "Themen/Hypervisor.md",
+    "Themen/IKE (Internet-Key-Exchange-Protokoll).md",
+    "Themen/Horizontale Skalierung (scale out).md",
+    "Themen/Distance Vector.md",
+    "Themen/Daten-Replikation.md",
+    "Themen/Address Resolution Protocol (ARP).md",
+    "Themen/Blue Green Deployment.md",
+    "Themen/VLAN.md",
     "Themen/Vertikale Skalierung (scale up).md",
-    "Themen/Umrechnung von Zahlensystemen.md",
+    "Themen/traceroute.md",
     "Themen/Subnetting.md",
     "Themen/Storage.md",
-    "Themen/Storage Area Network (SAN).md",
-    "Themen/Spanning Tree Protocol.md",
-    "Themen/Sliding Window.md",
-    "Themen/Skalierung.md",
-    "Themen/Signatur Verification.md",
-    "Themen/Schutzziele.md",
-    "Themen/Schichtenmodell bei Betriebssystemen.md",
-    "Themen/Schichtenarchitektur.md",
-    "Themen/SaaS.md",
     "Themen/SQL.md",
-    "Anhang/SVG/tracert.drawio.svg",
-    "Anhang/SVG/tracert.drawio",
-    "Anhang/SVG/saas-paas-iaas-diagram.svg",
-    "Anhang/SVG/privateCloud.drawio.svg",
-    "Anhang/SVG/ping.drawio.svg",
-    "Anhang/SVG/ping.drawio",
-    "Anhang/SVG/VI_UPS_-_Line_Interactive_UPS_(German).svg",
-    "Anhang/SVG/VFI_UPS_-_Online_UPS_(German).svg",
-    "Anhang/SVG/UPS_VFD_-_Offline_UPS_(German).svg",
-    "Anhang/SVG/Subnetting.drawio.svg",
-    "Anhang/SVG/Subnetting.drawio",
-    "Anhang/SVG/Storage_SAN.drawio.svg",
-    "Anhang/SVG/Storage_NAS.drawio.svg",
-    "Anhang/SVG/Storage.drawio",
-    "Anhang/SVG/Schutzziele.drawio",
+    "Themen/Storage Area Network (SAN).md",
+    "Themen/Spanning Tree.md",
+    "Lernfeld 10",
     "Anhang/SVG/Schichtenmodell.drawio",
-    "Anhang/SVG/SLAAC.drawio",
-    "Anhang/SVG/Key_Verification.drawio",
+    "Anhang/SVG/Schalenmodell.svg",
+    "Anhang/SVG/ARP Table.png",
+    "Anhang/SVG/Subnetting.drawio.svg",
+    "Anhang/SVG/Domain.drawio.svg",
     "Anhang/SVG/Domain.drawio",
+    "Anhang/SVG/Storage.drawio",
+    "Anhang/SVG/Storage_NAS.drawio.svg",
+    "Anhang/SVG/Storage_SAN.drawio.svg",
+    "Anhang/SVG/Subnetting.drawio",
+    "Anhang/SVG/Key_Verification.drawio",
+    "Anhang/SVG/Key_Verification.drawio.svg",
+    "Anhang/SVG/Public-Key-Infrastructure.svg",
     "Anhang/SVG/Cloud.drawio",
+    "Anhang/SVG/SLAAC.drawio",
+    "Anhang/Excel/lu27403zhrf.tmp",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
