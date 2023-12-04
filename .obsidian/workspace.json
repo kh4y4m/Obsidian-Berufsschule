@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/Übersicht.md",
+                "file": "Themen/USV.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI-Schichtenmodell.md",
+                "file": "Lernfeld 10/Klausur 07-12-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI-Schichtenmodell.md",
+                "file": "Themen/USV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI-Schichtenmodell.md",
+                "file": "Themen/USV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSI-Schichtenmodell.md"
+                "file": "Themen/USV.md"
               }
             }
           },
@@ -229,10 +227,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "08c90f70ce0a1e3e",
+  "active": "646504c3c14f38c3",
   "lastOpenFiles": [
     "Themen/Übersicht.md",
+    "Lernfeld 10/Klausur 07-12-23.md",
     "OSI-Schichtenmodell.md",
+    "Lernfeld 10",
     "Themen/VLAN.md",
     "Lernfeld 11b/Backup.md",
     "Themen/Hypervisor.md",
@@ -272,12 +272,10 @@
     "Anhang/SVG/ERM_Beziehung.drawio.svg",
     "Anhang/SVG/ERM_Entity.drawio.svg",
     "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-    "IP-Adressen.md",
     "Anhang/SVG/VLAN.drawio",
     "Untitled 1.canvas",
     "Anhang/SVG/Klassendiagramme.drawio",
     "Anhang/SVG/Klassendiagramme_Komposition.svg",
-    "Themen",
-    "Verschlüsselung.tex"
+    "Themen"
   ]
 }
