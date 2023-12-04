@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "83c377a17f33b419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subnetze bilden.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2a6aa894f5f92990",
             "type": "leaf",
             "state": {
@@ -101,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unterschiede Programmiersprachen.md"
+                "file": "Lernfeld 10/Klausur 07-12-23.md"
               }
             }
           },
@@ -197,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unterschiede Programmiersprachen.md",
+                "file": "Lernfeld 10/Klausur 07-12-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unterschiede Programmiersprachen.md",
+                "file": "Lernfeld 10/Klausur 07-12-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,8 +251,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2a6aa894f5f92990",
+  "active": "c98c271adede7aee",
   "lastOpenFiles": [
+    "Subnetze bilden.md",
     "Lernfeld 10/Klausur 07-12-23.md",
     "Unterschiede Programmiersprachen.md",
     "Themen/1 Übersicht.md",
@@ -268,7 +282,6 @@
     "Themen/Storage.md",
     "Themen/SQL.md",
     "Themen/Storage Area Network (SAN).md",
-    "Themen/Spanning Tree.md",
     "Lernfeld 10",
     "Anhang/SVG/Schichtenmodell.drawio",
     "Anhang/SVG/Schalenmodell.svg",

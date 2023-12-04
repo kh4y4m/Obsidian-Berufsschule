@@ -9,6 +9,6 @@
 **Aus Prüfungsvorbereitung** 
 - [USV Unterschiede](USV)
 - Routing-Tabelle befüllen
-- Subnetze bilden
+- [[Subnetze bilden]]
 - [VLAN (Tagging nach 802.1q)](VLAN)
 - [[IP-Adressen#IPv6|IPv6 Gültigkeitsbereiche]]
