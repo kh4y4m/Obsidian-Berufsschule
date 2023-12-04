@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "c98c271adede7aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Well Known Ports.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "870fc1ceba6bec4f",
             "type": "leaf",
             "state": {
@@ -99,9 +112,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5da43a5e0fce9a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cb7d68da55b2f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/SQL.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d86a621c6d5e0014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 11b/Backup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Projektmanagement.md"
+                "file": "Themen/Well Known Ports.md"
               }
             }
           },
@@ -196,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Projektmanagement.md",
+                "file": "Themen/Well Known Ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Projektmanagement.md",
+                "file": "Themen/Well Known Ports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,12 +289,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b04152069a038a18",
+  "active": "c98c271adede7aee",
   "lastOpenFiles": [
-    "Themen/Public Cloud.md",
-    "Themen/Schutzziele.md",
     "Themen/1 Übersicht.md",
     "Lernfeld 11b/Backup.md",
+    "Themen/SQL.md",
+    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
+    "Themen/Projektmanagement.md",
+    "Themen/Public Cloud.md",
+    "Themen/Schutzziele.md",
     "Themen/Schichtenarchitektur.md",
     "Themen/Schichtenmodell bei Betriebssystemen.md",
     "Anhang/SVG/Schichtenmodell.drawio",
@@ -272,11 +327,8 @@
     "Anhang/SVG/Storage_NAS.drawio.svg",
     "Anhang/SVG/Storage_SAN.drawio.svg",
     "Anhang/SVG/Subnetting.drawio",
-    "Themen/ipconfig.md",
-    "Themen/Signatur Verification.md",
     "Anhang/SVG/Key_Verification.drawio",
     "Anhang/SVG/Key_Verification.drawio.svg",
-    "Themen/Public-Key-Infrastructure (PKI).md",
     "Anhang/SVG/Public-Key-Infrastructure.svg",
     "Anhang/SVG/Cloud.drawio",
     "Anhang/SVG/SLAAC.drawio",
