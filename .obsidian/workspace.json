@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 10/Klausur 07-12-23.md",
-                "mode": "source",
+                "file": "Themen/Well Known Ports.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subnetze bilden.md",
+                "file": "Themen/Subnetze bilden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unterschiede Programmiersprachen.md",
+                "file": "Themen/Unterschiede Programmiersprachen.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compilersprache.md",
+                "file": "Themen/Compilersprache.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skriptsprachen.md",
+                "file": "Themen/Skriptsprachen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RegEx.md",
+                "file": "Themen/RegEx.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac3622a9b1e454d9",
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 10/Klausur 07-12-23.md"
+                "file": "Themen/Well Known Ports.md"
               }
             }
           },
@@ -210,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 10/Klausur 07-12-23.md",
+                "file": "Themen/Well Known Ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 10/Klausur 07-12-23.md",
+                "file": "Themen/Well Known Ports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,17 +252,17 @@
   },
   "active": "c98c271adede7aee",
   "lastOpenFiles": [
-    "Subnetze bilden.md",
     "Lernfeld 10/Klausur 07-12-23.md",
-    "Unterschiede Programmiersprachen.md",
+    "Themen/Well Known Ports.md",
+    "Themen/Unterschiede Programmiersprachen.md",
+    "Themen/Subnetze bilden.md",
     "Themen/1 Übersicht.md",
-    "Skriptsprachen.md",
-    "Compilersprache.md",
+    "Themen/Skriptsprachen.md",
+    "Themen/Compilersprache.md",
     "Anhang/SVG/Programmiersprache_Compiler.drawio.svg",
     "Anhang/SVG/Programmiersprache_Interpreter.drawio.svg",
-    "RegEx.md",
+    "Themen/RegEx.md",
     "Anhang/SVG/davechild_regular-expressions.pdf",
-    "Themen/Well Known Ports.md",
     "Themen/IP-Adressen.md",
     "Themen/Klassendiagramme.md",
     "Themen/ipconfig.md",
