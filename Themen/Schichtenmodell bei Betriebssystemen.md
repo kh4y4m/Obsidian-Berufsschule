@@ -1,0 +1,1 @@
+![[Schalenmodell.svg|700]]

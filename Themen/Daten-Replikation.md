@@ -1,0 +1,1 @@
+*... Herstellung von Mehrexemplaren (Kopien) derselben Daten, meistens jedoch verbunden mit dem regelmäßigen Abgleich der Daten.*

@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-csv-table",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "obsidian-sortable",
+  "cm-editor-syntax-highlight-obsidian"
 ]

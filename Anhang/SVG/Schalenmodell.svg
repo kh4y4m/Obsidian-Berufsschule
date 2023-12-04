@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export Schichtenmodell.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="7.52837in" height="4.5353in" viewBox="0 0 542.043 326.541" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st9">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#4bacc6;stroke-linecap:round;stroke-linejoin:round;stroke-width:21.25}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st4 {font-size:1em}
+		.st5 {font-size:1em;font-weight:bold}
+		.st6 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:none;stroke:#c05046;stroke-dasharray:10.5,7.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st8 {stroke:#c05046;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Zeichenblatt-1</title>
+		<g id="shape1-1" transform="translate(28.625,-28.625)">
+			<title>Kreis</title>
+			<path d="M0 191.9 A134.646 134.646 0 0 1 269.29 191.9 A134.646 134.646 0 1 1 -0 191.9 Z" class="st1"/>
+		</g>
+		<g id="shape2-3" transform="translate(70.6598,-70.6598)">
+			<title>Kreis.2</title>
+			<path d="M0 233.93 A92.6109 92.6109 0 1 1 185.22 233.93 A92.6109 92.6109 0 0 1 0 233.93 Z" class="st1"/>
+		</g>
+		<g id="shape3-5" transform="translate(112.761,-112.761)">
+			<title>Kreis.3</title>
+			<path d="M0 276.03 A50.5093 50.5093 0 0 1 101.02 276.03 A50.5093 50.5093 0 1 1 0 276.03 Z" class="st1"/>
+		</g>
+		<g id="shape4-7" transform="translate(348.455,-289.33)">
+			<title>Tabelle.4</title>
+			<desc>Geschlossene Datenstruktur</desc>
+			<rect x="0" y="316.053" width="175.213" height="10.4882" class="st2"/>
+			<text x="4" y="324.9" class="st3">Geschlossene Datenstruktur</text>		</g>
+		<g id="shape5-10" transform="translate(348.455,-251.669)">
+			<title>Tabelle.5</title>
+			<desc>Speicher-, Prozess-, und Zeitverwaltung, E/A-System</desc>
+			<rect x="0" y="306.541" width="175.213" height="20" class="st2"/>
+			<text x="4" y="312.94" class="st3">Speicher-, Prozess-, und <tspan x="4" dy="1.2em" class="st4">Zeitverwaltung</tspan>, E/A-System</text>		</g>
+		<g id="shape6-14" transform="translate(348.455,-214.007)">
+			<title>Tabelle.6</title>
+			<desc>Systemdienste KERNEL</desc>
+			<rect x="0" y="306.541" width="175.213" height="20" class="st2"/>
+			<text x="4" y="312.94" class="st3">Systemdienste<tspan x="4" dy="1.2em" class="st5">KERNEL</tspan></text>		</g>
+		<g id="shape7-18" transform="translate(348.455,-176.346)">
+			<title>Tabelle.7</title>
+			<desc>Record Management System EXECUTIVE</desc>
+			<rect x="0" y="306.541" width="175.213" height="20" class="st2"/>
+			<text x="4" y="312.94" class="st3">Record Management System<tspan x="4" dy="1.2em" class="st5">EXECUTIVE</tspan></text>		</g>
+		<g id="shape8-22" transform="translate(348.455,-138.684)">
+			<title>Tabelle.8</title>
+			<desc>Kommandospracheninterpreter SUPERVISOR</desc>
+			<rect x="0" y="306.541" width="175.213" height="20" class="st2"/>
+			<text x="4" y="312.94" class="st3">Kommandospracheninterpreter<tspan x="4" dy="1.2em" class="st5">SUPERVISOR</tspan></text>		</g>
+		<g id="shape9-26" transform="translate(348.455,-101.023)">
+			<title>Tabelle.9</title>
+			<desc>Anwendungsprogramme USER</desc>
+			<rect x="0" y="306.541" width="175.213" height="20" class="st2"/>
+			<text x="4" y="312.94" class="st3">Anwendungsprogramme<tspan x="4" dy="1.2em" class="st5">USER</tspan></text>		</g>
+		<g id="shape10-30" transform="translate(348.455,-30.5272)">
+			<title>Tabelle.10</title>
+			<desc>Kernel Mode (innen) User Mode (außen)</desc>
+			<rect x="0" y="306.541" width="175.213" height="20" class="st2"/>
+			<text x="4" y="312.94" class="st3">Kernel Mode (innen) <tspan x="4" dy="1.2em" class="st4">User Mode </tspan>(außen)</text>		</g>
+		<g id="shape12-34" transform="translate(348.455,544.603) rotate(180)">
+			<title>Tabelle.12</title>
+			<path d="M0 326.54 L28.35 326.54" class="st6"/>
+		</g>
+		<g id="shape13-37" transform="translate(320.109,-151)">
+			<title>Tabelle.13</title>
+			<path d="M0 326.54 L28.35 326.54" class="st6"/>
+		</g>
+		<g id="shape14-40" transform="translate(348.455,466.65) rotate(180)">
+			<title>Tabelle.14</title>
+			<path d="M0 326.54 L73.7 326.54" class="st6"/>
+		</g>
+		<g id="shape15-43" transform="translate(344.779,431.196) rotate(-179.355)">
+			<title>Tabelle.15</title>
+			<path d="M0 326.54 L64.31 326.54" class="st6"/>
+		</g>
+		<g id="shape16-46" transform="translate(294.597,-264.385)">
+			<title>Tabelle.16</title>
+			<path d="M53.86 326.54 L0 326.54 L10.4 326.54" class="st6"/>
+		</g>
+		<g id="shape17-49" transform="translate(348.455,357.233) rotate(180)">
+			<title>Tabelle.17</title>
+			<path d="M0 326.54 L50.62 326.54" class="st6"/>
+		</g>
+		<g id="shape21-52" transform="translate(82.3229,-82.6474)">
+			<title>Tabelle.21</title>
+			<ellipse cx="80.9478" cy="245.594" rx="80.9478" ry="80.9478" class="st7"/>
+		</g>
+		<g id="shape22-54" transform="translate(229.245,-40.4485)">
+			<title>Tabelle.22</title>
+			<path d="M119.21 326.54 L90.86 326.54 L0 250.3" class="st8"/>
+		</g>
+		<g id="shape23-57" transform="translate(551.743,236.021) rotate(128.962)">
+			<title>Tabelle.23</title>
+			<path d="M0 326.54 L170.98 326.54" class="st6"/>
+		</g>
+		<g id="shape24-60" transform="translate(549.675,266.029) rotate(128.634)">
+			<title>Tabelle.24</title>
+			<path d="M0 326.54 L129.44 326.54" class="st6"/>
+		</g>
+		<g id="shape26-63" transform="translate(533.866,314.353) rotate(130.116)">
+			<title>Tabelle.26</title>
+			<path d="M0 326.54 L78.05 326.54" class="st6"/>
+		</g>
+		<g id="shape27-66" transform="translate(527.901,346.376) rotate(129.174)">
+			<title>Tabelle.27</title>
+			<path d="M0 326.54 L29.88 326.54" class="st6"/>
+		</g>
+		<g id="shape28-69" transform="translate(320.109,502.083) rotate(180)">
+			<title>Tabelle.28</title>
+			<path d="M0 326.54 L45.35 326.54" class="st6"/>
+		</g>
+		<g id="shape29-72" transform="translate(89.209,448.961) rotate(-135)">
+			<title>Tabelle.29</title>
+			<path d="M0 326.54 L35.97 326.54" class="st6"/>
+		</g>
+	</g>
+</svg>

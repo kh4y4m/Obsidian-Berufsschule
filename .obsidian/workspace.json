@@ -10,88 +10,98 @@
           {
             "id": "646504c3c14f38c3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/USV.md",
+                "file": "Themen/1 Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "870fc1ceba6bec4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Schichtenmodell bei Betriebssystemen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4ea83b791e9ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/3-Tier.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16fc5c403e7792d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/2-Tier.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55935a7d9ec9e2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Schichtenarchitektur.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af6c662b91310b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 11b/Backup.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "2aaec3c38aa68da5",
+            "id": "b04152069a038a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b15e5014c783b165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Übersicht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08c90f70ce0a1e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld 10/Klausur 07-12-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87a3f572ab44df3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Hypervisor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68492c36af0265b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themen/Verschlüsselung.md",
+                "file": "Themen/Projektmanagement.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b19953ebb5d2addd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -120,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diffi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,35 +162,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "233cfe42c4b9d16e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Themen/USV.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b9146885f739c2fd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Themen/USV.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "47383de585baa881",
             "type": "leaf",
             "state": {
@@ -197,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/USV.md"
+                "file": "Themen/Projektmanagement.md"
               }
             }
           },
@@ -208,9 +189,38 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "93cd05c7d79db587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Themen/Projektmanagement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2219bc3c0f3a96fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Themen/Projektmanagement.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,55 +237,55 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "646504c3c14f38c3",
+  "active": "b04152069a038a18",
   "lastOpenFiles": [
-    "Themen/Übersicht.md",
-    "Lernfeld 10/Klausur 07-12-23.md",
-    "OSI-Schichtenmodell.md",
-    "Lernfeld 10",
-    "Themen/VLAN.md",
+    "Themen/Public Cloud.md",
+    "Themen/Schutzziele.md",
+    "Themen/1 Übersicht.md",
     "Lernfeld 11b/Backup.md",
-    "Themen/Hypervisor.md",
-    "DNS.md",
-    "Lernfeld 11b/Firewall.md",
-    "[Virtual Private Network (VPN).md",
+    "Themen/Schichtenarchitektur.md",
+    "Themen/Schichtenmodell bei Betriebssystemen.md",
+    "Anhang/SVG/Schichtenmodell.drawio",
+    "Anhang/SVG/Schalenmodell.svg",
+    "Themen/3-Tier.md",
+    "Themen/2-Tier.md",
+    "Themen/Network File System (NFS).md",
+    "Themen/Address Resolution Protocol (ARP).md",
+    "Themen/Network Attached Storage (NAS).md",
+    "Themen/Storage.md",
+    "Themen/Umrechnung von Zahlensystemen.md",
+    "Themen/Storage Area Network (SAN).md",
+    "Themen/Domain.md",
+    "Themen/Daten-Deduplizierung.md",
     "Themen/Verschlüsselung.md",
-    "Lernfeld 9/WLAN - Aufbau und Funktionsweise.md",
+    "Themen/Daten-Replikation.md",
+    "Themen/Vertikale Skalierung (scale up).md",
+    "Themen/Link-Aggregation (LAG).md",
+    "Themen/Subnetting.md",
+    "Anhang/SVG/ARP Table.png",
+    "Themen/WPA.md",
+    "Themen/Sliding Window.md",
+    "Anhang/SVG/Subnetting.drawio.svg",
+    "Anhang/SVG/Domain.drawio.svg",
+    "Anhang/SVG/Domain.drawio",
+    "Anhang/SVG/Storage.drawio",
+    "Anhang/SVG/Storage_NAS.drawio.svg",
+    "Anhang/SVG/Storage_SAN.drawio.svg",
+    "Anhang/SVG/Subnetting.drawio",
+    "Themen/ipconfig.md",
+    "Themen/Signatur Verification.md",
+    "Anhang/SVG/Key_Verification.drawio",
+    "Anhang/SVG/Key_Verification.drawio.svg",
+    "Themen/Public-Key-Infrastructure (PKI).md",
+    "Anhang/SVG/Public-Key-Infrastructure.svg",
+    "Anhang/SVG/Cloud.drawio",
+    "Anhang/SVG/SLAAC.drawio",
+    "Anhang/SVG/SLAAC.drawio.svg",
+    "Anhang/SVG/PublicCloud.drawio.svg",
+    "Anhang/Excel/lu27403zhrf.tmp",
+    "Anhang/SVG/Blue_Green_Deployement.drawio",
+    "Anhang/SVG/tracert.drawio",
     "Untitled.canvas",
-    "Lernfeld 6/Klausurvorbereitung/Themen.md",
-    "2023-11-03.md",
-    "Lernfeld 7/Klausur 06.07.23.md",
-    "Anhang/SVG/IPv6_ImportantIP.drawio",
-    "Anhang/SVG/DNS.drawio",
-    "Themen/IP-Adressen.md",
-    "Themen/Diffie-Hellman.md",
-    "Themen/Datenbank Modelle.md",
-    "Lernfeld 11b/Virtual Private Network (VPN).md",
-    "Anhang/SVG/IPv6_ImportantIP.svg",
-    "Lernfeld 9/Virtual Private Network.md",
-    "Lernfeld 9/Virtual Private Network 1.md",
-    "Themen/Spanning Tree.md",
-    "Themen/USV.md",
-    "Themen/Klassendiagramme.md",
-    "Anhang/Excel/CIDR-Adressblock.ods",
-    "Anhang/Excel/lu20652996wh.tmp",
-    "Anhang/SVG/Hypervisor.drawio",
-    "Anhang/SVG/Private_IPv4.svg",
-    "Anhang/SVG/Hypervisor_Typ2.drawio.svg",
-    "Anhang/SVG/Hypervisor_Typ1.drawio.svg",
-    "Datenbank Modelle.md",
-    "VLAN.md",
-    "Anhang/SVG/VLAN_Ethernetpaket.svg",
-    "Anhang/SVG/ERM.drawio",
-    "Anhang/SVG/ERM_kardi.drawio.svg",
-    "Anhang/SVG/Klassendiagramme_Attribut.svg",
-    "Anhang/SVG/ERM_Beziehung.drawio.svg",
-    "Anhang/SVG/ERM_Entity.drawio.svg",
-    "Lernfeld 8/Klausuren/Teichis Notizen/Befehle im Überblick.md",
-    "Anhang/SVG/VLAN.drawio",
-    "Untitled 1.canvas",
-    "Anhang/SVG/Klassendiagramme.drawio",
-    "Anhang/SVG/Klassendiagramme_Komposition.svg",
-    "Themen"
+    "Untitled 1.canvas"
   ]
 }

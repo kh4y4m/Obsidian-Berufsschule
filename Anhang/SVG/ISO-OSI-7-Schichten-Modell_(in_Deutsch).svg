@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:ooo="http://xml.openoffice.org/svg/export"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="324mm"
+   height="210mm"
+   viewBox="0 0 32400 21000"
+   preserveAspectRatio="xMidYMid"
+   fill-rule="evenodd"
+   clip-path="url(#presentation_clip_path)"
+   stroke-width="28.222"
+   stroke-linejoin="round"
+   xml:space="preserve"
+   id="svg4983"
+   sodipodi:docname="ISO-OSI-7-Schichten-Modell(in_Deutsch).svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata4987"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="3072"
+   inkscape:window-height="1661"
+   id="namedview4985"
+   showgrid="false"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   inkscape:zoom="1.0419544"
+   inkscape:cx="235.23056"
+   inkscape:cy="396.85039"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g4976" />
+ <defs
+   class="ClipPathGroup"
+   id="defs4373">
+  <clipPath
+   id="presentation_clip_path"
+   clipPathUnits="userSpaceOnUse">
+   <rect
+   x="0"
+   y="0"
+   width="32400"
+   height="21000"
+   id="rect4370" />
+  </clipPath>
+ </defs>
+ <defs
+   class="TextShapeIndex"
+   id="defs4377">
+  <g
+   ooo:slide="id1"
+   ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27"
+   id="g4375" />
+ </defs>
+ <defs
+   class="EmbeddedBulletChars"
+   id="defs4406">
+  <g
+   id="bullet-char-template(57356)"
+   transform="scale(0.00048828125,-0.00048828125)">
+   <path
+   d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"
+   id="path4379" />
+  </g>
+  <g
+   id="bullet-char-template(57354)"
+   transform="scale(0.00048828125,-0.00048828125)">
+   <path
+   d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"
+   id="path4382" />
+  </g>
+  <g
+   id="bullet-char-template(10146)"
+   transform="scale(0.00048828125,-0.00048828125)">
+   <path
+   d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"
+   id="path4385" />
+  </g>
+  <g
+   id="bullet-char-template(10132)"
+   transform="scale(0.00048828125,-0.00048828125)">
+   <path
+   d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"
+   id="path4388" />
+  </g>
+  <g
+   id="bullet-char-template(10007)"
+   transform="scale(0.00048828125,-0.00048828125)">
+   <path
+   d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"
+   id="path4391" />
+  </g>
+  <g
+   id="bullet-char-template(10004)"
+   transform="scale(0.00048828125,-0.00048828125)">
+   <path
+   d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"
+   id="path4394" />
+  </g>
+  <g
+   id="bullet-char-template(9679)"
+   transform="scale(0.00048828125,-0.00048828125)">
+   <path
+   d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"
+   id="path4397" />
+  </g>
+  <g
+   id="bullet-char-template(8226)"
+   transform="scale(0.00048828125,-0.00048828125)">
+   <path
+   d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"
+   id="path4400" />
+  </g>
+  <g
+   id="bullet-char-template(8211)"
+   transform="scale(0.00048828125,-0.00048828125)">
+   <path
+   d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"
+   id="path4403" />
+  </g>
+ </defs>
+ <defs
+   class="TextEmbeddedBitmaps"
+   id="defs4408" />
+ <g
+   id="g4413">
+  <g
+   id="id2"
+   class="Master_Slide">
+   <g
+   id="bg-id2"
+   class="Background" />
+   <g
+   id="bo-id2"
+   class="BackgroundObjects" />
+  </g>
+ </g>
+ <g
+   class="SlideGroup"
+   id="g4981">
+  <g
+   id="g4979">
+   <g
+   id="id1"
+   class="Slide"
+   clip-path="url(#presentation_clip_path)">
+    <g
+   class="Page"
+   id="g4976">
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4432">
+      <g
+   id="id3">
+       <path
+   d="M 10737,6900 L 6399,6900 6399,5200 15074,5200 15074,6900 10737,6900 Z"
+   id="path4415"
+   stroke="none"
+   fill="rgb(235,97,61)" />
+       <path
+   d="M 10737,6900 L 6399,6900 6399,5200 15074,5200 15074,6900 10737,6900 Z"
+   id="path4417"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4429"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4427"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="6649"
+       y="6219"
+       id="tspan4425"><tspan
+         id="tspan4419"
+         stroke="none"
+         fill="rgb(0,0,0)">7.</tspan><tspan
+         id="tspan4421"
+         font-family="FreeMono, monospace"
+         stroke="none"
+         fill="rgb(0,0,0)"> </tspan><tspan
+         id="tspan4423"
+         stroke="none"
+         fill="rgb(0,0,0)">Anwendungsschicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4453">
+      <g
+   id="id4">
+       <path
+   d="M 10737,8600 L 6399,8600 6399,6900 15074,6900 15074,8600 10737,8600 Z"
+   id="path4434"
+   stroke="none"
+   fill="rgb(153,102,204)" />
+       <path
+   d="M 10737,8600 L 6399,8600 6399,6900 15074,6900 15074,8600 10737,8600 Z"
+   id="path4436"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4450"
+   x="-50.785973"
+   y="330.10883"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4442"
+     style="font-weight:400;font-size:635px;font-family:'Liberation Mono', monospace"><tspan
+       class="TextPosition"
+       x="6598.2139"
+       y="7889.1089"
+       id="tspan4440"
+       style="fill:#000000;stroke:none">6. Darstellungsschicht</tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4474">
+      <g
+   id="id5">
+       <path
+   d="M 10737,10300 L 6399,10300 6399,8600 15074,8600 15074,10300 10737,10300 Z"
+   id="path4455"
+   stroke="none"
+   fill="rgb(179,179,0)" />
+       <path
+   d="M 10737,10300 L 6399,10300 6399,8600 15074,8600 15074,10300 10737,10300 Z"
+   id="path4457"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4471"
+   x="-25.392986"
+   y="330.10883"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4463"
+     style="font-weight:400;font-size:635px;font-family:'Liberation Mono', monospace"><tspan
+       class="TextPosition"
+       x="6623.6069"
+       y="9589.1084"
+       id="tspan4461"
+       style="fill:#000000;stroke:none">5. Sitzungsschicht</tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4489">
+      <g
+   id="id6">
+       <path
+   d="M 10737,12000 L 6399,12000 6399,10300 15074,10300 15074,12000 10737,12000 Z"
+   id="path4476"
+   stroke="none"
+   fill="rgb(0,204,204)" />
+       <path
+   d="M 10737,12000 L 6399,12000 6399,10300 15074,10300 15074,12000 10737,12000 Z"
+   id="path4478"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4486"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4484"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="6649"
+       y="11319"
+       id="tspan4482"><tspan
+         id="tspan4480"
+         stroke="none"
+         fill="rgb(0,0,0)">4. Transportschicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4504">
+      <g
+   id="id7">
+       <path
+   d="M 10737,13700 L 6399,13700 6399,12000 15074,12000 15074,13700 10737,13700 Z"
+   id="path4491"
+   stroke="none"
+   fill="rgb(148,189,94)" />
+       <path
+   d="M 10737,13700 L 6399,13700 6399,12000 15074,12000 15074,13700 10737,13700 Z"
+   id="path4493"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4501"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4499"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="6545"
+       y="13019"
+       id="tspan4497"><tspan
+         id="tspan4495"
+         stroke="none"
+         fill="rgb(0,0,0)">3. Vermittlungsschicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4519">
+      <g
+   id="id8">
+       <path
+   d="M 10737,15400 L 6399,15400 6399,13700 15074,13700 15074,15400 10737,15400 Z"
+   id="path4506"
+   stroke="none"
+   fill="rgb(255,153,102)" />
+       <path
+   d="M 10737,15400 L 6399,15400 6399,13700 15074,13700 15074,15400 10737,15400 Z"
+   id="path4508"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4516"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4514"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="6649"
+       y="14719"
+       id="tspan4512"><tspan
+         id="tspan4510"
+         stroke="none"
+         fill="rgb(0,0,0)">2. Sicherungsschicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4540">
+      <g
+   id="id9">
+       <path
+   d="M 10737,17100 L 6399,17100 6399,15400 15074,15400 15074,17100 10737,17100 Z"
+   id="path4521"
+   stroke="none"
+   fill="rgb(255,255,153)" />
+       <path
+   d="M 10737,17100 L 6399,17100 6399,15400 15074,15400 15074,17100 10737,17100 Z"
+   id="path4523"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4537"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4529"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="6649"
+       y="16059"
+       id="tspan4527"><tspan
+         id="tspan4525"
+         stroke="none"
+         fill="rgb(0,0,0)">1. Bitübertragungs-</tspan></tspan></tspan><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4535"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="9403"
+       y="16779"
+       id="tspan4533"><tspan
+         id="tspan4531"
+         stroke="none"
+         fill="rgb(0,0,0)">schicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4561">
+      <g
+   id="id10">
+       <path
+   d="M 25062,6900 L 20724,6900 20724,5200 29399,5200 29399,6900 25062,6900 Z"
+   id="path4542"
+   stroke="none"
+   fill="rgb(235,97,61)" />
+       <path
+   d="M 25062,6900 L 20724,6900 20724,5200 29399,5200 29399,6900 25062,6900 Z"
+   id="path4544"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4558"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4556"
+     style="font-weight:400;font-size:635px;font-family:'Liberation Mono', monospace"><tspan
+       class="TextPosition"
+       x="20870"
+       y="6219"
+       id="tspan4554"><tspan
+         id="tspan4548"
+         style="fill:#000000;stroke:none">7.</tspan><tspan
+         id="tspan4550"
+         style="font-family:FreeMono, monospace;fill:#000000;stroke:none"> </tspan><tspan
+         id="tspan4552"
+         style="fill:#000000;stroke:none">Anwendungsschicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4582">
+      <g
+   id="id11">
+       <path
+   d="M 25062,8600 L 20724,8600 20724,6900 29399,6900 29399,8600 25062,8600 Z"
+   id="path4563"
+   stroke="none"
+   fill="rgb(153,102,204)" />
+       <path
+   d="M 25062,8600 L 20724,8600 20724,6900 29399,6900 29399,8600 25062,8600 Z"
+   id="path4565"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4579"
+   x="-25.392986"
+   y="330.10883"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4571"
+     style="font-weight:400;font-size:635px;font-family:'Liberation Mono', monospace"><tspan
+       class="TextPosition"
+       x="20948.607"
+       y="7889.1089"
+       id="tspan4569"
+       style="fill:#000000;stroke:none">6. Darstellungschicht</tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4603">
+      <g
+   id="id12">
+       <path
+   d="M 25062,10300 L 20724,10300 20724,8600 29399,8600 29399,10300 25062,10300 Z"
+   id="path4584"
+   stroke="none"
+   fill="rgb(179,179,0)" />
+       <path
+   d="M 25062,10300 L 20724,10300 20724,8600 29399,8600 29399,10300 25062,10300 Z"
+   id="path4586"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4600"
+   x="-50.785973"
+   y="327.97812"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4592"
+     style="font-weight:400;font-size:635px;font-family:'Liberation Mono', monospace"><tspan
+       class="TextPosition"
+       x="20923.215"
+       y="9586.9775"
+       id="tspan4590"
+       style="fill:#000000;stroke:none">5. Sitzungsschicht</tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4618">
+      <g
+   id="id13">
+       <path
+   d="M 25062,12000 L 20724,12000 20724,10300 29399,10300 29399,12000 25062,12000 Z"
+   id="path4605"
+   stroke="none"
+   fill="rgb(0,204,204)" />
+       <path
+   d="M 25062,12000 L 20724,12000 20724,10300 29399,10300 29399,12000 25062,12000 Z"
+   id="path4607"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4615"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4613"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="20974"
+       y="11319"
+       id="tspan4611"><tspan
+         id="tspan4609"
+         stroke="none"
+         fill="rgb(0,0,0)">4. Transportschicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4633">
+      <g
+   id="id14">
+       <path
+   d="M 25062,13700 L 20724,13700 20724,12000 29399,12000 29399,13700 25062,13700 Z"
+   id="path4620"
+   stroke="none"
+   fill="rgb(148,189,94)" />
+       <path
+   d="M 25062,13700 L 20724,13700 20724,12000 29399,12000 29399,13700 25062,13700 Z"
+   id="path4622"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4630"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4628"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="20870"
+       y="13019"
+       id="tspan4626"><tspan
+         id="tspan4624"
+         stroke="none"
+         fill="rgb(0,0,0)">3. Vermittlungsschicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4648">
+      <g
+   id="id15">
+       <path
+   d="M 25062,15400 L 20724,15400 20724,13700 29399,13700 29399,15400 25062,15400 Z"
+   id="path4635"
+   stroke="none"
+   fill="rgb(255,153,102)" />
+       <path
+   d="M 25062,15400 L 20724,15400 20724,13700 29399,13700 29399,15400 25062,15400 Z"
+   id="path4637"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4645"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4643"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="20974"
+       y="14719"
+       id="tspan4641"><tspan
+         id="tspan4639"
+         stroke="none"
+         fill="rgb(0,0,0)">2. Sicherungsschicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4669">
+      <g
+   id="id16">
+       <path
+   d="M 25062,17100 L 20724,17100 20724,15400 29399,15400 29399,17100 25062,17100 Z"
+   id="path4650"
+   stroke="none"
+   fill="rgb(255,255,153)" />
+       <path
+   d="M 25062,17100 L 20724,17100 20724,15400 29399,15400 29399,17100 25062,17100 Z"
+   id="path4652"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4666"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4658"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="20974"
+       y="16059"
+       id="tspan4656"><tspan
+         id="tspan4654"
+         stroke="none"
+         fill="rgb(0,0,0)">1. Bitübertragungs-</tspan></tspan></tspan><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan4664"
+     font-family="Liberation Mono, monospace"><tspan
+       class="TextPosition"
+       x="23728"
+       y="16779"
+       id="tspan4662"><tspan
+         id="tspan4660"
+         stroke="none"
+         fill="rgb(0,0,0)">schicht</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4684">
+      <g
+   id="id17">
+       <path
+   d="M 17950,18900 L 5100,18900 5100,17100 30800,17100 30800,18900 17950,18900 Z"
+   id="path4671"
+   stroke="none"
+   fill="rgb(230,255,0)" />
+       <path
+   d="M 17950,18900 L 5100,18900 5100,17100 30800,17100 30800,18900 17950,18900 Z"
+   id="path4673"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <text
+   class="TextShape"
+   id="text4681"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="700"
+     id="tspan4679"
+     font-family="Arial, sans-serif"><tspan
+       class="TextPosition"
+       x="14652"
+       y="18221"
+       id="tspan4677"><tspan
+         id="tspan4675"
+         stroke="none"
+         fill="rgb(0,0,0)">Übertragungsmedium</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.LineShape"
+   id="g4891">
+      <g
+   id="id18">
+       <path
+   d="M 600,10300 L 651,10300"
+   id="path4686"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 778,10300 L 829,10300"
+   id="path4688"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 956,10300 L 1210,10300"
+   id="path4690"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 1337,10300 L 1591,10300"
+   id="path4692"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 1718,10300 L 1972,10300"
+   id="path4694"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 2099,10300 L 2150,10300"
+   id="path4696"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 2277,10300 L 2328,10300"
+   id="path4698"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 2455,10300 L 2709,10300"
+   id="path4700"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 2836,10300 L 3090,10300"
+   id="path4702"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 3217,10300 L 3471,10300"
+   id="path4704"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 3598,10300 L 3649,10300"
+   id="path4706"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 3776,10300 L 3827,10300"
+   id="path4708"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 3954,10300 L 4208,10300"
+   id="path4710"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 4335,10300 L 4589,10300"
+   id="path4712"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 4716,10300 L 4970,10300"
+   id="path4714"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 5097,10300 L 5148,10300"
+   id="path4716"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 5275,10300 L 5326,10300"
+   id="path4718"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 5453,10300 L 5707,10300"
+   id="path4720"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 5834,10300 L 6088,10300"
+   id="path4722"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 6215,10300 L 6469,10300"
+   id="path4724"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 6596,10300 L 6647,10300"
+   id="path4726"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 6774,10300 L 6825,10300"
+   id="path4728"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 6952,10300 L 7206,10300"
+   id="path4730"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 7333,10300 L 7587,10300"
+   id="path4732"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 7714,10300 L 7968,10300"
+   id="path4734"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 8095,10300 L 8146,10300"
+   id="path4736"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 8273,10300 L 8324,10300"
+   id="path4738"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 8451,10300 L 8705,10300"
+   id="path4740"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 8832,10300 L 9086,10300"
+   id="path4742"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 9213,10300 L 9467,10300"
+   id="path4744"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 9594,10300 L 9645,10300"
+   id="path4746"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 9772,10300 L 9823,10300"
+   id="path4748"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 9950,10300 L 10204,10300"
+   id="path4750"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 10331,10300 L 10585,10300"
+   id="path4752"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 10712,10300 L 10966,10300"
+   id="path4754"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 11093,10300 L 11144,10300"
+   id="path4756"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 11271,10300 L 11322,10300"
+   id="path4758"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 11449,10300 L 11703,10300"
+   id="path4760"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 11830,10300 L 12084,10300"
+   id="path4762"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 12211,10300 L 12465,10300"
+   id="path4764"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 12592,10300 L 12643,10300"
+   id="path4766"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 12770,10300 L 12821,10300"
+   id="path4768"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 12948,10300 L 13202,10300"
+   id="path4770"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 13329,10300 L 13583,10300"
+   id="path4772"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 13710,10300 L 13964,10300"
+   id="path4774"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 14091,10300 L 14142,10300"
+   id="path4776"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 14269,10300 L 14320,10300"
+   id="path4778"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 14447,10300 L 14701,10300"
+   id="path4780"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 14828,10300 L 15082,10300"
+   id="path4782"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 15209,10300 L 15463,10300"
+   id="path4784"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 15590,10300 L 15641,10300"
+   id="path4786"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 15768,10300 L 15819,10300"
+   id="path4788"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 15946,10300 L 16200,10300"
+   id="path4790"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 16327,10300 L 16581,10300"
+   id="path4792"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 16708,10300 L 16962,10300"
+   id="path4794"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 17089,10300 L 17140,10300"
+   id="path4796"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 17267,10300 L 17318,10300"
+   id="path4798"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 17445,10300 L 17699,10300"
+   id="path4800"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 17826,10300 L 18080,10300"
+   id="path4802"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 18207,10300 L 18461,10300"
+   id="path4804"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 18588,10300 L 18639,10300"
+   id="path4806"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 18766,10300 L 18817,10300"
+   id="path4808"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 18944,10300 L 19198,10300"
+   id="path4810"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 19325,10300 L 19579,10300"
+   id="path4812"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 19706,10300 L 19960,10300"
+   id="path4814"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 20087,10300 L 20138,10300"
+   id="path4816"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 20265,10300 L 20316,10300"
+   id="path4818"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 20443,10300 L 20697,10300"
+   id="path4820"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 20824,10300 L 21078,10300"
+   id="path4822"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 21205,10300 L 21459,10300"
+   id="path4824"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 21586,10300 L 21637,10300"
+   id="path4826"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 21764,10300 L 21815,10300"
+   id="path4828"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 21942,10300 L 22196,10300"
+   id="path4830"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 22323,10300 L 22577,10300"
+   id="path4832"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 22704,10300 L 22958,10300"
+   id="path4834"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 23085,10300 L 23136,10300"
+   id="path4836"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 23263,10300 L 23314,10300"
+   id="path4838"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 23441,10300 L 23695,10300"
+   id="path4840"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 23822,10300 L 24076,10300"
+   id="path4842"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 24203,10300 L 24457,10300"
+   id="path4844"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 24584,10300 L 24635,10300"
+   id="path4846"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 24762,10300 L 24813,10300"
+   id="path4848"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 24940,10300 L 25194,10300"
+   id="path4850"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 25321,10300 L 25575,10300"
+   id="path4852"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 25702,10300 L 25956,10300"
+   id="path4854"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 26083,10300 L 26134,10300"
+   id="path4856"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 26261,10300 L 26312,10300"
+   id="path4858"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 26439,10300 L 26693,10300"
+   id="path4860"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 26820,10300 L 27074,10300"
+   id="path4862"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 27201,10300 L 27455,10300"
+   id="path4864"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 27582,10300 L 27633,10300"
+   id="path4866"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 27760,10300 L 27811,10300"
+   id="path4868"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 27938,10300 L 28192,10300"
+   id="path4870"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 28319,10300 L 28573,10300"
+   id="path4872"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 28700,10300 L 28954,10300"
+   id="path4874"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 29081,10300 L 29132,10300"
+   id="path4876"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 29259,10300 L 29310,10300"
+   id="path4878"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 29437,10300 L 29691,10300"
+   id="path4880"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 29818,10300 L 30072,10300"
+   id="path4882"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 30199,10300 L 30453,10300"
+   id="path4884"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 30580,10300 L 30631,10300"
+   id="path4886"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+       <path
+   d="M 30758,10300 L 30800,10300"
+   id="path4888"
+   stroke="rgb(0,0,0)"
+   fill="none" />
+      </g>
+     </g>
+     
+     
+     <g
+   class="com.sun.star.drawing.TextShape"
+   id="g4924">
+      <g
+   id="id21">
+       <text
+   class="TextShape"
+   id="text4921"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="700"
+     id="tspan4919"
+     font-family="Arial, sans-serif"><tspan
+       class="TextPosition"
+       x="9071"
+       y="4801"
+       id="tspan4917"><tspan
+         id="tspan4915"
+         stroke="none"
+         fill="rgb(0,0,0)">Endsystem</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.TextShape"
+   id="g4935">
+      <g
+   id="id22">
+       <text
+   class="TextShape"
+   id="text4932"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="700"
+     id="tspan4930"
+     font-family="Arial, sans-serif"><tspan
+       class="TextPosition"
+       x="24032"
+       y="4801"
+       id="tspan4928"><tspan
+         id="tspan4926"
+         stroke="none"
+         fill="rgb(0,0,0)">Endsystem</tspan></tspan></tspan></text>
+
+
+      </g>
+     </g>
+     <g
+   class="com.sun.star.drawing.TextShape"
+   id="g4946">
+      
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4953">
+      
+     </g>
+     <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g4960">
+      
+     </g>
+     
+     
+    <text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:1058.33337402px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70709229"
+   x="-16607.012"
+   y="17064.088"
+   id="text717"><tspan
+     sodipodi:role="line"
+     id="tspan715"
+     x="-16607.012"
+     y="18000.465"
+     style="stroke-width:746.70709229" /></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:1058.33337402px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70709229"
+   x="856.96936"
+   y="11706.168"
+   id="text721"><tspan
+     sodipodi:role="line"
+     id="tspan719"
+     x="856.96936"
+     y="11706.168"
+     style="font-size:705.55554199px;stroke-width:746.70709229">Netzwerk-</tspan><tspan
+     sodipodi:role="line"
+     x="856.96936"
+     y="13029.085"
+     style="font-size:705.55554199px;stroke-width:746.70709229"
+     id="tspan725">bezogene</tspan><tspan
+     sodipodi:role="line"
+     x="856.96936"
+     y="14352.001"
+     style="font-size:705.55554199px;stroke-width:746.70709229"
+     id="tspan731">Schichten</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:1058.33337402px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70709229"
+   x="23818.621"
+   y="1980.6537"
+   id="text739"><tspan
+     sodipodi:role="line"
+     id="tspan737"
+     x="23818.621"
+     y="1980.6537"
+     style="stroke-width:746.70709229">1</tspan></text>
+</g>
+   <text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:1058.33337402px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70709229"
+   x="888.75452"
+   y="6119.7104"
+   id="text709"><tspan
+     sodipodi:role="line"
+     id="tspan707"
+     x="888.75452"
+     y="6119.7104"
+     style="font-size:705.55554199px;stroke-width:746.70709229">Anwendungs-</tspan><tspan
+     sodipodi:role="line"
+     x="888.75452"
+     y="7442.627"
+     style="font-size:705.55554199px;stroke-width:746.70709229"
+     id="tspan713">bezogene</tspan><tspan
+     sodipodi:role="line"
+     x="888.75452"
+     y="8765.5439"
+     style="font-size:705.55554199px;stroke-width:746.70709229"
+     id="tspan711">Schichten</tspan></text>
+</g>
+  </g>
+ </g>
+</svg>

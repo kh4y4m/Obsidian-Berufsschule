@@ -11,3 +11,14 @@
 
 ![[Routing_table.svg|700]]
 
+---
+
+![[Link-Aggregation (LAG)]]
+
+---
+
+![[Distance Vector]]
+
+---
+
+![[Spanning Tree Protocol]]

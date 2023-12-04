@@ -1,0 +1,1 @@
+*...  ist eine Architektur, die softwareseitig drei Schichten hat. Im Gegensatz zur zweischichtigen Architektur gibt es bei der dreischichtigen Architektur noch eine zusätzliche Schicht, oftmals die Logikschicht, welche die Datenverarbeitung vornimmt. *

@@ -1,0 +1,2 @@
+*... ist ein Cloud-Bereitstellungsmodell, bei dem sich die Ressourcen im Besitz des Cloud-Anbieters befinden, die diese Ressourcen verwalten und für mehrere Kunden zur Verfügung stellen.*
+![[PublicCloud.drawio.svg]]
